@@ -141,6 +141,15 @@ let feedList = [
       ItemFilters['fb'].ItemFilterFB,
     ],
   },
+  {
+    title: '巴哈姆特動畫瘋 on Facebook',
+    feedID: 'animategamer',
+    feedURL: 'http://fetchrss.com/rss/5f99871cb109d4184d3a5ef2622424dfb21ecd56f6380532.xml',
+    itemFilters: [
+      // ItemFilters['sites'].ItemFilterFBCheapAOE,
+      ItemFilters['fb'].ItemFilterFB,
+    ],
+  },
 ]
 
 // ----------------------------------------------------------------
