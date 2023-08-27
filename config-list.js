@@ -168,6 +168,24 @@ let feedList = [
       ItemFilters['fb'].ItemFilterFB,
     ],
   },
+  {
+    title: 'Pokémon GO TW on Facebook',
+    feedID: 'Pokemon-GO-TW',
+    feedURL: 'http://fetchrss.com/rss/5f99871cb109d4184d3a5ef25f9987c37ff6b50fd85867d2.xml',
+    itemFilters: [
+      // ItemFilters['sites'].ItemFilterFBCheapAOE,
+      ItemFilters['fb'].ItemFilterFB,
+    ],
+  },
+  {
+    title: 'Pvpoke on Facebook',
+    feedID: 'pvpoketw',
+    feedURL: 'http://fetchrss.com/rss/5f99840f8d12cb2c1f5202326224227bbb08d409b37f2882.xml  ',
+    itemFilters: [
+      // ItemFilters['sites'].ItemFilterFBCheapAOE,
+      ItemFilters['fb'].ItemFilterFB,
+    ],
+  },
 ]
 
 // ----------------------------------------------------------------
