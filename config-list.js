@@ -150,6 +150,15 @@ let feedList = [
       ItemFilters['fb'].ItemFilterFB,
     ],
   },
+  {
+    title: '爐石戰記 on Facebook',
+    feedID: 'HearthstoneZHTW',
+    feedURL: 'http://fetchrss.com/rss/5fafca78683abc7d28168d62622426978383db1dd816bbc2.xml',
+    itemFilters: [
+      // ItemFilters['sites'].ItemFilterFBCheapAOE,
+      ItemFilters['fb'].ItemFilterFB,
+    ],
+  },
 ]
 
 // ----------------------------------------------------------------
