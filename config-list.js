@@ -159,6 +159,15 @@ let feedList = [
       ItemFilters['fb'].ItemFilterFB,
     ],
   },
+  {
+    title: 'TechOrange 科技報橘 on Facebook',
+    feedID: 'TechOrange',
+    feedURL: 'http://fetchrss.com/rss/64eb816266fc43536e016cd264eb816f17d983645b2c2cd3.xml',
+    itemFilters: [
+      // ItemFilters['sites'].ItemFilterFBCheapAOE,
+      ItemFilters['fb'].ItemFilterFB,
+    ],
+  },
 ]
 
 // ----------------------------------------------------------------
