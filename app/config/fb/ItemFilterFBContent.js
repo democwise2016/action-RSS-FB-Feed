@@ -12,6 +12,22 @@ let main = async function (item, rss) {
   // content = content.replace(/<br>\n<br>\n/g, '<br>\n')
   content = content.replace(/"><br>\n<br>\n<img src="/g, '"><img src="')
   
+  // ----------------------------------------------------------------
+
+  let tempContent = content
+
+  if (tempContent.startsWith('#')) {
+    tempContent = tempContent.slice(1)
+  }
+  if (tempContent.startsWith(item.title)) {
+    content = tempContent.slice(item.title.length).trim()
+    if (content.startsWith('<br>')) {
+      content = content.slice(4)
+    }
+  }
+
+  // ----------------------------------------------------------------
+
   item.content = content
 
   return item

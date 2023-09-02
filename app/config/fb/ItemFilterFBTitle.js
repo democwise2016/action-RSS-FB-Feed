@@ -1,4 +1,4 @@
-const MAX_LENGTH = 30
+const MAX_LENGTH = 50
 
 let main = async function (item, rss) {
   // console.log(item)
@@ -57,6 +57,10 @@ let main = async function (item, rss) {
 
   if (title.startsWith('#')) {
     title = title.slice(1).trim()
+  }
+
+  if (title.endsWith(`<br>`)) {
+    title = title.slice(0, -4)
   }
 
   item.title = title

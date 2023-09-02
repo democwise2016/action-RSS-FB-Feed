@@ -192,17 +192,13 @@ let feedList = [
 
 // feedList = [
 //   {
-//     title: '遊戲角落 on Facebook',
-//     feedID: 'udngame',
-//     feedURL: 'http://fetchrss.com/rss/5f999158644572630d2ebfc3622425c2097d927598544362.xml',
+//     title: '輔大動漫電玩研習社 on Facebook',
+//     feedID: 'fjuacg',
+//     feedURL: 'http://fetchrss.com/rss/64eb0a337dd73b0d5e22166364eb0a4cba37016f6a4e5882.xml',
 //     itemFilters: [
 //       // ItemFilters['sites'].ItemFilterFBCheapAOE,
 //       ItemFilters['fb'].ItemFilterFB,
 //     ],
-//     options: {
-//       referer: 'https://game.udn.com/',
-//       selector: 'section.article-content__editor'
-//     }
 //   },
 // ]
 
