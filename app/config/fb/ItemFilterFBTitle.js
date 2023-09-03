@@ -52,7 +52,18 @@ let main = async function (item, rss) {
   }
 
   if (title.length > MAX_LENGTH) {
+    let content = item.content
+    if (content.startsWith('# ')) {
+      content = content.slice(1).trim()
+    }
+    if (content.startsWith(title) === false) {
+      content = title + '\n' + content
+      item.content = content
+    }
+
     title = title.substring(0, MAX_LENGTH).trim() + '...'
+
+
   }
 
   if (title.startsWith('#')) {
