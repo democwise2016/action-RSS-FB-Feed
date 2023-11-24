@@ -55,6 +55,7 @@ let main = async function (item, rss) {
 
 ${article}
 `
+  item.link = crawlTargetURL
 
   return item
 }

@@ -38,6 +38,8 @@ ${article}
     referer: 'https://tomchun.tw/'
   })
 
+  item.link = crawlTargetURL
+
   return item
 }
 

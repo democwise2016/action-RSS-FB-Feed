@@ -7,6 +7,7 @@ const ItemFilterImageEmbed = require('../common/ItemFilterImageEmbed.js')
 
 let main = async function (item, options = {}) {
 
+  // console.log(item)
   if (!item.link) {
     return item
   }
@@ -41,6 +42,9 @@ ${article}
 `
 
   await ItemFilterImageEmbed(item, options)
+  // console.log({crawlTargetURL})
+  item.link = crawlTargetURL
+  // console.log(item)
 
   return item
 }

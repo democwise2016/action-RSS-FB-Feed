@@ -192,12 +192,14 @@ let feedList = [
 
 // feedList = [
 //   {
-//     title: '輔大動漫電玩研習社 on Facebook',
-//     feedID: 'fjuacg',
-//     feedURL: 'http://fetchrss.com/rss/64eb0a337dd73b0d5e22166364eb0a4cba37016f6a4e5882.xml',
+//     title: '原價屋coolpc on Facebook',
+//     feedID: 'coolpc-fb',
+//     feedURL: 'http://fetchrss.com/rss/5f999158644572630d2ebfc3622425f7b21ecd56f6380533.xml',
 //     itemFilters: [
-//       // ItemFilters['sites'].ItemFilterFBCheapAOE,
-//       ItemFilters['fb'].ItemFilterFB,
+//       ItemFilters['fb'].ItemFilterFBTitle,
+//       ItemFilters['fb'].ItemFilterFBThumbnail,
+//       ItemFilters['common'].ItemFilterImageEmbed,
+//       ItemFilters['sites'].ItemFilterFBCoolPC
 //     ],
 //   },
 // ]
