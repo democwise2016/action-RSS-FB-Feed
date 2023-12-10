@@ -13,7 +13,7 @@ let main = async function (item, rss) {
 
   title = title.trim()
 
-  if (title.startsWith('Photos from ') && title.endsWith(`'s post`)) {
+  if ((title.startsWith('Photos from ') && title.endsWith(`'s post`)) || (title.endsWith(`'s cover photo`))) {
     title = item.content
   }
   
