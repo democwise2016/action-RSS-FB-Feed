@@ -3,7 +3,7 @@
     <title><![CDATA[王萊斯 on Facebook[FB+]]]></title>
     <link>http://fetchrss.com/rss/5f99840f8d12cb2c1f52023262242347516fb22b9d745102.xml</link>
     <image>
-      <url>https://fastly.picsum.photos/id/176/800/800.jpg?hmac=jBmEBCFd6WknOjGuY6R-Q5R3GYdlL7-2bCobdI-Zwf8</url>
+      <url>https://fastly.picsum.photos/id/347/800/800.jpg?hmac=GuipZyUzgQmI0t3s93EjQ1ptz7PAOYDJfgZcKGlPu0E</url>
       <title>王萊斯 on Facebook[FB+]</title>
       <link>http://fetchrss.com/rss/5f99840f8d12cb2c1f52023262242347516fb22b9d745102.xml</link>
     </image>
@@ -28,21 +28,69 @@
     <itunes:owner>
       <itunes:name><![CDATA[王萊斯 on Facebook[FB+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/176/800/800.jpg?hmac=jBmEBCFd6WknOjGuY6R-Q5R3GYdlL7-2bCobdI-Zwf8"/>
+    <itunes:image href="https://fastly.picsum.photos/id/347/800/800.jpg?hmac=GuipZyUzgQmI0t3s93EjQ1ptz7PAOYDJfgZcKGlPu0E"/>
 <item>
+      <title><![CDATA[【覺得微妙，跟大家分享一下】]]></title>
+      <link>https://www.facebook.com/320043852819136/posts/945594176930764</link>
+      <itunes:title><![CDATA[【覺得微妙，跟大家分享一下】]]></itunes:title>
+      <itunes:author><![CDATA[王萊斯 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-eb64feaf9f.jpg"><br>之前分享過，在 YT 搜尋 "歐派"那些特殊詞，會導致 YT 搜尋的時候看不到封面。我一直覺得這件事情很沒道理，搜尋"歐派"封面會看不見，但是搜尋奶子就可以。我想不出任何道理奶子可以過，但是歐派不行。可是要說是 BUG 也太巧。<br>
+結果今天在搜尋"人中之龍"的時候，也發現封面會消失。這更沒道理了，SEGA 再怎麼得罪 GOOGLE、得罪 Youtube ，也不至於這麼明目張膽吧？更何況根本也沒有甚麼過節吧？<br>
+於是我測試了一些組合<br>
+A："人中"、"之龍"、"中之龍"可以讓封面顯示<br>
+B："人中之"、"人之中"。封面會被取消顯示<br>
+啊幹！會讓封面消失的字串是"人之"跟"之人"<br>
+而且跟影片的標題不算完全關係，因為只要是這個搜尋結果出來的影片，封面全數會消失不顯示，採用系統預設的封面。而且跟排序無關，只要是用有問題的字串組合就不行。<br>
+例如搜尋"歐派"出來的影片，封面會不見。所以用"派歐"搜尋出來的影片，封面也會不見。<br>
+說了你們也不信，但是我原本是搜尋"派歐"發現異狀，所以才一路測試下來的。<br>
+感謝 美絮子 Melody 贊助！<br>
+#萊斯攝影練習📷✨第七彈<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-eb64feaf9f.jpg"><br>之前分享過，在 YT 搜尋 "歐派"那些特殊詞，會導致 YT 搜尋的時候看不到封面。我一直覺得這件事情很沒道理，搜尋"歐派"封面會看不見，但是搜尋奶子就可以。我想不出任何道理奶子可以過，但是歐派不行。可是要說是 BUG 也太巧。<br>
+結果今天在搜尋"人中之龍"的時候，也發現封面會消失。這更沒道理了，SEGA 再怎麼得罪 GOOGLE、得罪 Youtube ，也不至於這麼明目張膽吧？更何況根本也沒有甚麼過節吧？<br>
+於是我測試了一些組合<br>
+A："人中"、"之龍"、"中之龍"可以讓封面顯示<br>
+B："人中之"、"人之中"。封面會被取消顯示<br>
+啊幹！會讓封面消失的字串是"人之"跟"之人"<br>
+而且跟影片的標題不算完全關係，因為只要是這個搜尋結果出來的影片，封面全數會消失不顯示，採用系統預設的封面。而且跟排序無關，只要是用有問題的字串組合就不行。<br>
+例如搜尋"歐派"出來的影片，封面會不見。所以用"派歐"搜尋出來的影片，封面也會不見。<br>
+說了你們也不信，但是我原本是搜尋"派歐"發現異狀，所以才一路測試下來的。<br>
+感謝 美絮子 Melody 贊助！<br>
+#萊斯攝影練習📷✨第七彈<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-eb64feaf9f.jpg"><br>之前分享過，在 YT 搜尋 "歐派"那些特殊詞，會導致 YT 搜尋的時候看不到封面。我一直覺得這件事情很沒道理，搜尋"歐派"封面會看不見，但是搜尋奶子就可以。我想不出任何道理奶子可以過，但是歐派不行。可是要說是 BUG 也太巧。<br>
+結果今天在搜尋"人中之龍"的時候，也發現封面會消失。這更沒道理了，SEGA 再怎麼得罪 GOOGLE、得罪 Youtube ，也不至於這麼明目張膽吧？更何況根本也沒有甚麼過節吧？<br>
+於是我測試了一些組合<br>
+A："人中"、"之龍"、"中之龍"可以讓封面顯示<br>
+B："人中之"、"人之中"。封面會被取消顯示<br>
+啊幹！會讓封面消失的字串是"人之"跟"之人"<br>
+而且跟影片的標題不算完全關係，因為只要是這個搜尋結果出來的影片，封面全數會消失不顯示，採用系統預設的封面。而且跟排序無關，只要是用有問題的字串組合就不行。<br>
+例如搜尋"歐派"出來的影片，封面會不見。所以用"派歐"搜尋出來的影片，封面也會不見。<br>
+說了你們也不信，但是我原本是搜尋"派歐"發現異狀，所以才一路測試下來的。<br>
+感謝 美絮子 Melody 贊助！<br>
+#萊斯攝影練習📷✨第七彈<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-eb64feaf9f.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-eb64feaf9f.jpg" medium="image"/>
+      <pubDate>Sat, 09 Dec 2023 09:07:05 +0000</pubDate>
+    </item><item>
       <title><![CDATA[也太突然了！戰神的免費 DLC 瓦哈拉，12/12 就上了！]]></title>
       <link>https://www.facebook.com/320043852819136/posts/944925266997655</link>
       <itunes:title><![CDATA[也太突然了！戰神的免費 DLC 瓦哈拉，12/12 就上了！]]></itunes:title>
       <itunes:author><![CDATA[王萊斯 on Facebook[FB+]]]></itunes:author>
       <itunes:summary>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-59cf6290f9.jpg"><br><br><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-26eb943b0e.jpg"><br><br><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]>
       </itunes:summary>
       <description>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-59cf6290f9.jpg"><br><br><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-26eb943b0e.jpg"><br><br><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]>
       </description>
-      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-59cf6290f9.jpg"><br><br><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
-      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-59cf6290f9.jpg"/>
-      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-59cf6290f9.jpg" medium="image"/>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-26eb943b0e.jpg"><br><br><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-26eb943b0e.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-26eb943b0e.jpg" medium="image"/>
       <pubDate>Fri, 08 Dec 2023 01:18:57 +0000</pubDate>
     </item><item>
       <title><![CDATA[世界誇張，除了那些韓團和極為知名的音樂創作者]]></title>
@@ -50,23 +98,23 @@
       <itunes:title><![CDATA[世界誇張，除了那些韓團和極為知名的音樂創作者]]></itunes:title>
       <itunes:author><![CDATA[王萊斯 on Facebook[FB+]]]></itunes:author>
       <itunes:summary>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-f208c28e9a.jpg"><br>大概沒人可以上線一天內逼近破億的播放次數<br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-77e48c2c50.jpg"><br>大概沒人可以上線一天內逼近破億的播放次數<br>
 BTW，我是不是該玩一下 GTA V 了？<br>
 等等，最近該玩的遊戲為什麼總是那麼多啊！<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]>
       </itunes:summary>
       <description>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-f208c28e9a.jpg"><br>大概沒人可以上線一天內逼近破億的播放次數<br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-77e48c2c50.jpg"><br>大概沒人可以上線一天內逼近破億的播放次數<br>
 BTW，我是不是該玩一下 GTA V 了？<br>
 等等，最近該玩的遊戲為什麼總是那麼多啊！<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]>
       </description>
-      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-f208c28e9a.jpg"><br>大概沒人可以上線一天內逼近破億的播放次數<br>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-77e48c2c50.jpg"><br>大概沒人可以上線一天內逼近破億的播放次數<br>
 BTW，我是不是該玩一下 GTA V 了？<br>
 等等，最近該玩的遊戲為什麼總是那麼多啊！<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
-      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-f208c28e9a.jpg"/>
-      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-f208c28e9a.jpg" medium="image"/>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-77e48c2c50.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-77e48c2c50.jpg" medium="image"/>
       <pubDate>Tue, 05 Dec 2023 16:17:06 +0000</pubDate>
     </item><item>
       <title><![CDATA[2023 星光電競大賞 - 娛樂效果獎]]></title>
@@ -92,7 +140,7 @@ BTW，我是不是該玩一下 GTA V 了？<br>
       <itunes:title><![CDATA[Vlog影片上啦🤩 #重發]]></itunes:title>
       <itunes:author><![CDATA[王萊斯 on Facebook[FB+]]]></itunes:author>
       <itunes:summary>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-a842ec7d9b.jpg"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-689c2e3158.jpg" width="720" height="960"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-aa68a50026.jpg" width="1280" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-c1f75c7e1f.jpg" width="960" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-b1c36c702d.jpg" width="1280" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-ac4e172bb7.jpg" width="960" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-6fffc6d552.jpg" width="720" height="960"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-d0c917759e.jpg" width="720" height="960"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-0545ec20a3.jpg" width="1289" height="720"><br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-a8078d5184.jpg"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-9ed954e0bb.jpg" width="720" height="960"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-0e1550d488.jpg" width="1280" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-e6188222bd.jpg" width="960" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-b1c36c702d.jpg" width="1280" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-d45aeaaa31.jpg" width="960" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-fa283b75ef.jpg" width="720" height="960"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-a7d42af94e.jpg" width="720" height="960"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-0545ec20a3.jpg" width="1289" height="720"><br>
 在這次瑞典行中深刻感受到歐洲國家和亞洲國家的 #文化差異！才知道 #他們很在意被拍到，尤其是小孩子；生活中少了冷氣和手搖很不習慣，好想念控肉飯XD；還有走在街道上的氛圍、過馬路的感受，瑞典真的好舒服阿～<br>
 這次出國也體會到 #旅伴 真的很重要～瑞典的馬爾默雖然是第三大城市，娛樂點其實不多，加上這次同行的達哥、Sophia、Dennis 都是第一次見面，頂多之前和Dennis 電話聯絡公事過，原本有點擔心，沒想到相處起來像是認識許久的老朋友！我們沒跑大景點，悠哉壓馬路時遇到鞦韆和雕像就玩的很開心，#跟好玩的人去哪都有趣 ~<br>
 有興趣看看文化差異、瑞典風景人事物的人，影片任意門放留言區～歡迎前往～瑞典真的很漂亮！！！<br>
@@ -107,7 +155,7 @@ PS：感謝之前按讚留言的朋友，因為連結和有人只看到幾張照
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]>
       </itunes:summary>
       <description>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-a842ec7d9b.jpg"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-689c2e3158.jpg" width="720" height="960"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-aa68a50026.jpg" width="1280" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-c1f75c7e1f.jpg" width="960" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-b1c36c702d.jpg" width="1280" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-ac4e172bb7.jpg" width="960" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-6fffc6d552.jpg" width="720" height="960"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-d0c917759e.jpg" width="720" height="960"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-0545ec20a3.jpg" width="1289" height="720"><br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-a8078d5184.jpg"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-9ed954e0bb.jpg" width="720" height="960"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-0e1550d488.jpg" width="1280" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-e6188222bd.jpg" width="960" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-b1c36c702d.jpg" width="1280" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-d45aeaaa31.jpg" width="960" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-fa283b75ef.jpg" width="720" height="960"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-a7d42af94e.jpg" width="720" height="960"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-0545ec20a3.jpg" width="1289" height="720"><br>
 在這次瑞典行中深刻感受到歐洲國家和亞洲國家的 #文化差異！才知道 #他們很在意被拍到，尤其是小孩子；生活中少了冷氣和手搖很不習慣，好想念控肉飯XD；還有走在街道上的氛圍、過馬路的感受，瑞典真的好舒服阿～<br>
 這次出國也體會到 #旅伴 真的很重要～瑞典的馬爾默雖然是第三大城市，娛樂點其實不多，加上這次同行的達哥、Sophia、Dennis 都是第一次見面，頂多之前和Dennis 電話聯絡公事過，原本有點擔心，沒想到相處起來像是認識許久的老朋友！我們沒跑大景點，悠哉壓馬路時遇到鞦韆和雕像就玩的很開心，#跟好玩的人去哪都有趣 ~<br>
 有興趣看看文化差異、瑞典風景人事物的人，影片任意門放留言區～歡迎前往～瑞典真的很漂亮！！！<br>
@@ -121,7 +169,7 @@ PS：感謝之前按讚留言的朋友，因為連結和有人只看到幾張照
 PS：感謝之前按讚留言的朋友，因為連結和有人只看到幾張照片所以重發～<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]>
       </description>
-      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-a842ec7d9b.jpg"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-689c2e3158.jpg" width="720" height="960"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-aa68a50026.jpg" width="1280" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-c1f75c7e1f.jpg" width="960" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-b1c36c702d.jpg" width="1280" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-ac4e172bb7.jpg" width="960" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-6fffc6d552.jpg" width="720" height="960"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-d0c917759e.jpg" width="720" height="960"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-0545ec20a3.jpg" width="1289" height="720"><br>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-a8078d5184.jpg"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-9ed954e0bb.jpg" width="720" height="960"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-0e1550d488.jpg" width="1280" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-e6188222bd.jpg" width="960" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-b1c36c702d.jpg" width="1280" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-d45aeaaa31.jpg" width="960" height="720"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-fa283b75ef.jpg" width="720" height="960"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-a7d42af94e.jpg" width="720" height="960"><br><img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-0545ec20a3.jpg" width="1289" height="720"><br>
 在這次瑞典行中深刻感受到歐洲國家和亞洲國家的 #文化差異！才知道 #他們很在意被拍到，尤其是小孩子；生活中少了冷氣和手搖很不習慣，好想念控肉飯XD；還有走在街道上的氛圍、過馬路的感受，瑞典真的好舒服阿～<br>
 這次出國也體會到 #旅伴 真的很重要～瑞典的馬爾默雖然是第三大城市，娛樂點其實不多，加上這次同行的達哥、Sophia、Dennis 都是第一次見面，頂多之前和Dennis 電話聯絡公事過，原本有點擔心，沒想到相處起來像是認識許久的老朋友！我們沒跑大景點，悠哉壓馬路時遇到鞦韆和雕像就玩的很開心，#跟好玩的人去哪都有趣 ~<br>
 有興趣看看文化差異、瑞典風景人事物的人，影片任意門放留言區～歡迎前往～瑞典真的很漂亮！！！<br>
@@ -134,23 +182,8 @@ PS：感謝之前按讚留言的朋友，因為連結和有人只看到幾張照
 🌟意外和外國人聊起天😳<br>
 PS：感謝之前按讚留言的朋友，因為連結和有人只看到幾張照片所以重發～<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
-      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-a842ec7d9b.jpg"/>
-      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-a842ec7d9b.jpg" medium="image"/>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-a8078d5184.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-a8078d5184.jpg" medium="image"/>
       <pubDate>Mon, 04 Dec 2023 12:48:50 +0000</pubDate>
-    </item><item>
-      <title><![CDATA[我不能每次到了夏天，才再想今年冬天要減肥。減肥從今天開始！兄弟們一起！]]></title>
-      <link>https://www.facebook.com/320043852819136/posts/942528483904000</link>
-      <itunes:title><![CDATA[我不能每次到了夏天，才再想今年冬天要減肥。減肥從今天開始！兄弟們一起！]]></itunes:title>
-      <itunes:author><![CDATA[王萊斯 on Facebook[FB+]]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<img src=""><br><br><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<img src=""><br><br><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]>
-      </description>
-      <content:encoded><![CDATA[<img src=""><br><br><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
-      <itunes:image href="undefined"/>
-      <media:content url="undefined" medium="image"/>
-      <pubDate>Sun, 03 Dec 2023 08:57:42 +0000</pubDate>
     </item></channel>
 </rss>
