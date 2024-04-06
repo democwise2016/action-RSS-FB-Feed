@@ -5,7 +5,9 @@ const moment = require('moment')
 const CONFIG = require('./../../../config.js')
 
 module.exports = async function (options) {
-  let output = []
+  let output = [
+    `<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet href="https://darekkay.com/assets/xsl/rss-style.xsl" type="text/xsl"?>`
+  ]
   
   if (options.title) {
     options.title = options.title + CONFIG.titleAppend
