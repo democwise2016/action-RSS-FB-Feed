@@ -1,9 +1,9 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet href="https://darekkay.com/assets/xsl/rss-style.xsl" type="text/xsl"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
   <channel>
     <title><![CDATA[次郎 JIRO on Facebook[FB+]]]></title>
     <link>http://fetchrss.com/rss/5fafca78683abc7d28168d6262242670f8d1e74d980505c2.xml</link>
     <image>
-      <url>https://fastly.picsum.photos/id/604/800/800.jpg?hmac=7BkEKvBPzSZa-0Ki51mS6p-hpU5nR3nunEJmsBKM0HM</url>
+      <url>https://fastly.picsum.photos/id/614/800/800.jpg?hmac=L5lP_rTXi3ZgMofzvqo8dB-rp6B9al0riKUHs3WNheE</url>
       <title>次郎 JIRO on Facebook[FB+]</title>
       <link>http://fetchrss.com/rss/5fafca78683abc7d28168d6262242670f8d1e74d980505c2.xml</link>
     </image>
@@ -28,7 +28,7 @@
     <itunes:owner>
       <itunes:name><![CDATA[次郎 JIRO on Facebook[FB+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/604/800/800.jpg?hmac=7BkEKvBPzSZa-0Ki51mS6p-hpU5nR3nunEJmsBKM0HM"/>
+    <itunes:image href="https://fastly.picsum.photos/id/614/800/800.jpg?hmac=L5lP_rTXi3ZgMofzvqo8dB-rp6B9al0riKUHs3WNheE"/>
 <item>
       <title><![CDATA[漫畫 #出租女友 第36卷封面公開！4月17日發售]]></title>
       <link>https://www.facebook.com/768893104808491/posts/976988880665578</link>
