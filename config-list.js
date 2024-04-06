@@ -180,7 +180,16 @@ let feedList = [
   {
     title: 'Pvpoke on Facebook',
     feedID: 'pvpoketw',
-    feedURL: 'http://fetchrss.com/rss/5f99840f8d12cb2c1f5202326224227bbb08d409b37f2882.xml  ',
+    feedURL: 'http://fetchrss.com/rss/5f99840f8d12cb2c1f5202326224227bbb08d409b37f2882.xml',
+    itemFilters: [
+      // ItemFilters['sites'].ItemFilterFBCheapAOE,
+      ItemFilters['fb'].ItemFilterFB,
+    ],
+  },
+  {
+    title: '唯香小館 on Facebook',
+    feedID: 'xinchun_st-weixiang',
+    feedURL: 'https://fetchrss.com/rss/66114cb4b1e7592f390cb53266114b739929a040586b9012.xml',
     itemFilters: [
       // ItemFilters['sites'].ItemFilterFBCheapAOE,
       ItemFilters['fb'].ItemFilterFB,
