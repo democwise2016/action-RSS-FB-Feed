@@ -148,6 +148,10 @@ jobs:
       - name: Output Calculate After
         run: |
           ls -lh ./output/*.rss || true
+          
+      - name: Remove .gitignore
+        run: |
+          rm -rf ./output/.gitignore || true
 
       # - name: Cache Save
       #   id: cache-save
