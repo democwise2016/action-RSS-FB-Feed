@@ -1,5 +1,6 @@
 FROM pudding/docker-image-base:puppeteer-python-14-action-rss-ut-20240713.235824
 
+RUN npm link he@1.2.0
 RUN npm link axios@1.4.0
 
 #RUN pip install youtube_transcript_api
