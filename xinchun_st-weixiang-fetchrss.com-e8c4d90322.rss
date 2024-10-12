@@ -3,7 +3,7 @@
     <title><![CDATA[唯香小館 on Facebook[FB+]]]></title>
     <link>http://fetchrss.com/rss/66114cb4b1e7592f390cb53266114b739929a040586b9012.xml</link>
     <image>
-      <url>https://fastly.picsum.photos/id/521/800/800.jpg?hmac=ZUa07JK82PYsOuZjICmM9nW89Y4MSsAzQQCKAc1VWzs</url>
+      <url>https://fastly.picsum.photos/id/477/800/800.jpg?hmac=jniO6LFpnXg-fpx7CRSJWs287eV5KET0j0s2VEdA2rM</url>
       <title>唯香小館 on Facebook[FB+]</title>
       <link>http://fetchrss.com/rss/66114cb4b1e7592f390cb53266114b739929a040586b9012.xml</link>
     </image>
@@ -28,8 +28,23 @@
     <itunes:owner>
       <itunes:name><![CDATA[唯香小館 on Facebook[FB+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/521/800/800.jpg?hmac=ZUa07JK82PYsOuZjICmM9nW89Y4MSsAzQQCKAc1VWzs"/>
+    <itunes:image href="https://fastly.picsum.photos/id/477/800/800.jpg?hmac=jniO6LFpnXg-fpx7CRSJWs287eV5KET0j0s2VEdA2rM"/>
 <item>
+      <title><![CDATA[唯香公告：]]></title>
+      <link>https://www.facebook.com/851264887016990/posts/980808397395971</link>
+      <itunes:title><![CDATA[唯香公告：]]></itunes:title>
+      <itunes:author><![CDATA[唯香小館 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[今日（10／12）特休一天<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[今日（10／12）特休一天<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[今日（10／12）特休一天<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="undefined"/>
+      <media:content url="undefined" medium="image"/>
+      <pubDate>Sat, 12 Oct 2024 01:47:24 +0000</pubDate>
+    </item><item>
       <title><![CDATA[唯香公告：]]></title>
       <link>https://www.facebook.com/851264887016990/posts/979951020815042</link>
       <itunes:title><![CDATA[唯香公告：]]></itunes:title>
@@ -89,35 +104,5 @@
       <itunes:image href="undefined"/>
       <media:content url="undefined" medium="image"/>
       <pubDate>Tue, 08 Oct 2024 00:44:39 +0000</pubDate>
-    </item><item>
-      <title><![CDATA[今日簡餐菜色如下]]></title>
-      <link>https://www.facebook.com/851264887016990/posts/976197611190383</link>
-      <itunes:title><![CDATA[今日簡餐菜色如下]]></itunes:title>
-      <itunes:author><![CDATA[唯香小館 on Facebook[FB+]]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-2dda35da39.jpg"><br>主菜:蒸魚<br>
-配菜:茄子<br>
-         紅燒豆腐<br>
-         時蔬<br>
-敬請期待<br>
-<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-2dda35da39.jpg"><br>主菜:蒸魚<br>
-配菜:茄子<br>
-         紅燒豆腐<br>
-         時蔬<br>
-敬請期待<br>
-<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]>
-      </description>
-      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-2dda35da39.jpg"><br>主菜:蒸魚<br>
-配菜:茄子<br>
-         紅燒豆腐<br>
-         時蔬<br>
-敬請期待<br>
-<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
-      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-2dda35da39.jpg"/>
-      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-2dda35da39.jpg" medium="image"/>
-      <pubDate>Sun, 06 Oct 2024 02:51:49 +0000</pubDate>
     </item></channel>
 </rss>
