@@ -3,7 +3,7 @@
     <title><![CDATA[唯香小館 on Facebook[FB+]]]></title>
     <link>http://fetchrss.com/rss/66114cb4b1e7592f390cb53266114b739929a040586b9012.xml</link>
     <image>
-      <url>https://fastly.picsum.photos/id/430/800/800.jpg?hmac=wTqxPNdlkJlsDuo9EV6ojBwUXSAA0SWZVs2ikXBvzek</url>
+      <url>https://fastly.picsum.photos/id/388/800/800.jpg?hmac=RvXKUf547tEUyM5z8-Ycr3jJilSkuKJF8tdCAVHvwng</url>
       <title>唯香小館 on Facebook[FB+]</title>
       <link>http://fetchrss.com/rss/66114cb4b1e7592f390cb53266114b739929a040586b9012.xml</link>
     </image>
@@ -28,8 +28,23 @@
     <itunes:owner>
       <itunes:name><![CDATA[唯香小館 on Facebook[FB+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/430/800/800.jpg?hmac=wTqxPNdlkJlsDuo9EV6ojBwUXSAA0SWZVs2ikXBvzek"/>
+    <itunes:image href="https://fastly.picsum.photos/id/388/800/800.jpg?hmac=RvXKUf547tEUyM5z8-Ycr3jJilSkuKJF8tdCAVHvwng"/>
 <item>
+      <title><![CDATA[唯香公告:]]></title>
+      <link>https://www.facebook.com/851264887016990/posts/983928910417253</link>
+      <itunes:title><![CDATA[唯香公告:]]></itunes:title>
+      <itunes:author><![CDATA[唯香小館 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[今日(10/16)特休一日<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[今日(10/16)特休一日<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[今日(10/16)特休一日<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="undefined"/>
+      <media:content url="undefined" medium="image"/>
+      <pubDate>Tue, 15 Oct 2024 23:18:36 +0000</pubDate>
+    </item><item>
       <title><![CDATA[唯香公告：]]></title>
       <link>https://www.facebook.com/851264887016990/posts/983121377164673</link>
       <itunes:title><![CDATA[唯香公告：]]></itunes:title>
@@ -89,20 +104,5 @@
       <itunes:image href="undefined"/>
       <media:content url="undefined" medium="image"/>
       <pubDate>Fri, 11 Oct 2024 00:00:16 +0000</pubDate>
-    </item><item>
-      <title><![CDATA[唯香公告：]]></title>
-      <link>https://www.facebook.com/851264887016990/posts/979121904231287</link>
-      <itunes:title><![CDATA[唯香公告：]]></itunes:title>
-      <itunes:author><![CDATA[唯香小館 on Facebook[FB+]]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[今日（10／10）特休一天<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[今日（10／10）特休一天<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]>
-      </description>
-      <content:encoded><![CDATA[今日（10／10）特休一天<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
-      <itunes:image href="undefined"/>
-      <media:content url="undefined" medium="image"/>
-      <pubDate>Wed, 09 Oct 2024 23:27:17 +0000</pubDate>
     </item></channel>
 </rss>
