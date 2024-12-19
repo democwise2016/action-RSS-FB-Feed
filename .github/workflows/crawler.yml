@@ -192,6 +192,9 @@ jobs:
           latest_commit=$(git rev-parse HEAD)
           git reset --soft $latest_commit
           git commit --amend -m "Keep only the latest commit"
-          git push --force origin gh-pages
 
           git gc --aggressive --prune=now
+          
+          git push --force origin gh-pages
+
+          
