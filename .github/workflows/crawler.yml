@@ -18,6 +18,8 @@ jobs:
       
       - name: Checkout 🛎️
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
 
       # ----------------------------------------------------------------
 
@@ -28,7 +30,7 @@ jobs:
 
       - name: Fetch gh-pages branch
         run: |
-          git fetch origin gh-pages
+          git fetch origin gh-pages --depth=1
           git checkout gh-pages
 
       - name: Remove all history except latest commit
