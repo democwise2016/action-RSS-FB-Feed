@@ -2,7 +2,7 @@ name: Crawler
 
 # INPUTS as environmental variables (env) for not manually triggered workflows 
 env:
-  NEW_FIRST_COMMIT: HEAD~N # e.g. commit-hash or HEAD~N etc.
+  NEW_FIRST_COMMIT: ${{ github.sha }} # e.g. commit-hash or HEAD~N etc.
   #TOKEN_NAME: # target token name; insert only the name never the real value e.g. 'BRANCH_PRUNER_TOKEN'
   # 
   # THAT'S IT; JUMP TO THE TRIGGERS;
