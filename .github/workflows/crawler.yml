@@ -141,7 +141,7 @@ jobs:
       - name: Main
         run: |
           bash ./install_docker_compose.sh
-          docker-compose up --build --abort-on-container-exit
+          docker-compose up --build --abort-on-container-exit --quiet-pull
 
       # ----------------------------------------------------------------
 
@@ -193,3 +193,5 @@ jobs:
           git reset --soft $latest_commit
           git commit --amend -m "Keep only the latest commit"
           git push --force origin gh-pages
+
+          git gc --aggressive --prune=now
