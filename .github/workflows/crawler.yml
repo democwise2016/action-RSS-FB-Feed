@@ -1,4 +1,14 @@
 name: Crawler
+
+# INPUTS as environmental variables (env) for not manually triggered workflows 
+env:
+  NEW_FIRST_COMMIT: "HEAD~N" # e.g. commit-hash or HEAD~N etc.
+  #TOKEN_NAME: # target token name; insert only the name never the real value e.g. 'BRANCH_PRUNER_TOKEN'
+  # 
+  # THAT'S IT; JUMP TO THE TRIGGERS;
+  DEFAULT_REPOSITORY: ${{ github.repository }} # repo with this file
+  DEFAULT_BRANCH: 'gh-pages'
+
 on: 
   push:
   schedule:
@@ -17,6 +27,13 @@ jobs:
       
       - name: Checkout 🛎️
         uses: actions/checkout@v3
+
+      # ----------------------------------------------------------------
+
+      - uses: myactionway/branch-pruner-action@v2.0
+        with:
+          new_first_commit: ${{ github.event.inputs.new_first_commit || env.NEW_FIRST_COMMIT }}
+          branch: ${{ env.DEFAULT_BRANCH }}
 
       # ----------------------------------------------------------------
       # https://github.com/orgs/community/discussions/26351#discussioncomment-3251597
@@ -171,10 +188,3 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4.6.5
         with:
           folder: output # The folder the action should deploy.
-
-      # ----------------------------------------------------------------
-
-      - uses: myactionway/branch-pruner-action@v2.0
-        with:
-          new_first_commit: ${{ github.event.inputs.new_first_commit || env.NEW_FIRST_COMMIT }}
-          branch: "gh-pages"
