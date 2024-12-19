@@ -22,25 +22,6 @@ jobs:
           fetch-depth: 1
 
       # ----------------------------------------------------------------
-
-      - name: Set up Git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Fetch gh-pages branch
-        run: |
-          git fetch origin gh-pages --depth=1
-          git checkout gh-pages
-
-      - name: Remove all history except latest commit
-        run: |
-          latest_commit=$(git rev-parse HEAD)
-          git reset --soft $latest_commit
-          git commit --amend -m "Keep only the latest commit"
-          git push --force origin gh-pages
-
-      # ----------------------------------------------------------------
       # https://github.com/orgs/community/discussions/26351#discussioncomment-3251597
 
       - name: free disk space
@@ -193,3 +174,22 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4.6.5
         with:
           folder: output # The folder the action should deploy.
+
+      # ----------------------------------------------------------------
+
+      - name: Set up Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Fetch gh-pages branch
+        run: |
+          git fetch origin gh-pages --depth=1
+          git checkout gh-pages
+
+      - name: Remove all history except latest commit
+        run: |
+          latest_commit=$(git rev-parse HEAD)
+          git reset --soft $latest_commit
+          git commit --amend -m "Keep only the latest commit"
+          git push --force origin gh-pages
