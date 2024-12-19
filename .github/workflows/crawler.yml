@@ -171,3 +171,10 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4.6.5
         with:
           folder: output # The folder the action should deploy.
+
+      # ----------------------------------------------------------------
+
+      - uses: myactionway/branch-pruner-action@v2.0
+        with:
+          new_first_commit: ${{ github.event.inputs.new_first_commit || env.NEW_FIRST_COMMIT }}
+          branch: "gh-pages"
