@@ -1,14 +1,5 @@
 name: Crawler
 
-# INPUTS as environmental variables (env) for not manually triggered workflows 
-env:
-  NEW_FIRST_COMMIT: ${{ github.sha }} # e.g. commit-hash or HEAD~N etc.
-  #TOKEN_NAME: # target token name; insert only the name never the real value e.g. 'BRANCH_PRUNER_TOKEN'
-  # 
-  # THAT'S IT; JUMP TO THE TRIGGERS;
-  DEFAULT_REPOSITORY: ${{ github.repository }} # repo with this file
-  DEFAULT_BRANCH: 'gh-pages'
-
 on: 
   push:
   schedule:
@@ -30,10 +21,22 @@ jobs:
 
       # ----------------------------------------------------------------
 
-      - uses: myactionway/branch-pruner-action@v2.0
-        with:
-          new_first_commit: ${{ github.event.inputs.new_first_commit || env.NEW_FIRST_COMMIT }}
-          branch: ${{ env.DEFAULT_BRANCH }}
+      - name: Set up Git
+      run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Fetch gh-pages branch
+        run: |
+          git fetch origin gh-pages
+          git checkout gh-pages
+
+      - name: Remove all history except latest commit
+        run: |
+          latest_commit=$(git rev-parse HEAD)
+          git reset --soft $latest_commit
+          git commit --amend -m "Keep only the latest commit"
+          git push --force origin gh-pages
 
       # ----------------------------------------------------------------
       # https://github.com/orgs/community/discussions/26351#discussioncomment-3251597
