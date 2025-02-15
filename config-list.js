@@ -169,32 +169,41 @@ let feedList = [
     ],
   },
   {
-    title: 'Pokémon GO TW on Facebook',
-    feedID: 'Pokemon-GO-TW',
-    feedURL: 'http://fetchrss.com/rss/5f99871cb109d4184d3a5ef25f9987c37ff6b50fd85867d2.xml',
+    title: 'BOOX 中文 on Facebook',
+    feedID: 'boox-ereader',
+    feedURL: 'http://fetchrss.com/rss/5f99871cb109d4184d3a5ef25f998c5549e50078c2363a63.xml',
     itemFilters: [
       // ItemFilters['sites'].ItemFilterFBCheapAOE,
       ItemFilters['fb'].ItemFilterFB,
     ],
   },
-  {
-    title: 'Pvpoke on Facebook',
-    feedID: 'pvpoketw',
-    feedURL: 'http://fetchrss.com/rss/5f99840f8d12cb2c1f5202326224227bbb08d409b37f2882.xml',
-    itemFilters: [
-      // ItemFilters['sites'].ItemFilterFBCheapAOE,
-      ItemFilters['fb'].ItemFilterFB,
-    ],
-  },
-  {
-    title: '唯香小館 on Facebook',
-    feedID: 'xinchun_st-weixiang',
-    feedURL: 'https://fetchrss.com/rss/66114cb4b1e7592f390cb53266114b739929a040586b9012.xml',
-    itemFilters: [
-      // ItemFilters['sites'].ItemFilterFBCheapAOE,
-      ItemFilters['fb'].ItemFilterFB,
-    ],
-  },
+  // {
+  //   title: 'Pokémon GO TW on Facebook',
+  //   feedID: 'Pokemon-GO-TW',
+  //   feedURL: 'http://fetchrss.com/rss/5f99871cb109d4184d3a5ef25f9987c37ff6b50fd85867d2.xml',
+  //   itemFilters: [
+  //     // ItemFilters['sites'].ItemFilterFBCheapAOE,
+  //     ItemFilters['fb'].ItemFilterFB,
+  //   ],
+  // },
+  // {
+  //   title: 'Pvpoke on Facebook',
+  //   feedID: 'pvpoketw',
+  //   feedURL: 'http://fetchrss.com/rss/5f99840f8d12cb2c1f5202326224227bbb08d409b37f2882.xml',
+  //   itemFilters: [
+  //     // ItemFilters['sites'].ItemFilterFBCheapAOE,
+  //     ItemFilters['fb'].ItemFilterFB,
+  //   ],
+  // },
+  // {
+  //   title: '唯香小館 on Facebook',
+  //   feedID: 'xinchun_st-weixiang',
+  //   feedURL: 'https://fetchrss.com/rss/66114cb4b1e7592f390cb53266114b739929a040586b9012.xml',
+  //   itemFilters: [
+  //     // ItemFilters['sites'].ItemFilterFBCheapAOE,
+  //     ItemFilters['fb'].ItemFilterFB,
+  //   ],
+  // },
 ]
 
 // ----------------------------------------------------------------
