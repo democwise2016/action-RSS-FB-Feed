@@ -1,4 +1,5 @@
 const ItemFilters = require('./app/config/ItemFilters.js')
+const CONFIG = require('./config-json.js')
 
 let feedList = [
   {
@@ -6,7 +7,7 @@ let feedList = [
     feedID: 'coolpc-fb',
     feedURL: 'http://fetchrss.com/rss/5f999158644572630d2ebfc3622425f7b21ecd56f6380533.xml',
     itemFilters: [
-      ItemFilters['fb'].ItemFilterFBTitle,
+      ItemFilters['fb'].ItemFilterFBTitleExtract,
       ItemFilters['fb'].ItemFilterFBThumbnail,
       ItemFilters['common'].ItemFilterImageEmbed,
       ItemFilters['sites'].ItemFilterFBCoolPC
@@ -18,7 +19,7 @@ let feedList = [
     feedURL: 'http://fetchrss.com/rss/5ff67856db94f676db0c0fc2624855aee53bac619d087ae2.xml',
     itemFilters: [
       ItemFilters['sites'].ItemFilterFBCheapAOE,
-      ItemFilters['fb'].ItemFilterFBTitle,
+      ItemFilters['fb'].ItemFilterFBTitleExtract,
       ItemFilters['fb'].ItemFilterFBContent,
       ItemFilters['fb'].ItemFilterFBThumbnail,
       ItemFilters['common'].ItemFilterImageEmbed
@@ -30,7 +31,7 @@ let feedList = [
     feedURL: 'http://fetchrss.com/rss/5f99840f8d12cb2c1f52023262242347516fb22b9d745102.xml',
     itemFilters: [
       // ItemFilters['sites'].ItemFilterFBCheapAOE,
-      ItemFilters['fb'].ItemFilterFBTitle,
+      ItemFilters['fb'].ItemFilterFBTitleExtract,
       ItemFilters['fb'].ItemFilterFBContent,
       ItemFilters['fb'].ItemFilterFBThumbnail,
       ItemFilters['common'].ItemFilterImageEmbed
@@ -43,7 +44,7 @@ let feedList = [
     itemFilters: [
       // ItemFilters['sites'].ItemFilterFBCheapAOE,
       ItemFilters['fb'].ItemFilterFBTitleRemoveID,
-      ItemFilters['fb'].ItemFilterFBTitle,
+      ItemFilters['fb'].ItemFilterFBTitleExtract,
       ItemFilters['fb'].ItemFilterFBContent,
       ItemFilters['fb'].ItemFilterFBThumbnail,
       ItemFilters['common'].ItemFilterImageEmbed
@@ -55,7 +56,7 @@ let feedList = [
     feedURL: 'http://fetchrss.com/rss/5ff67856db94f676db0c0fc26224275a9c4570443d73fe02.xml',
     itemFilters: [
       // ItemFilters['sites'].ItemFilterFBCheapAOE,
-      ItemFilters['fb'].ItemFilterFBTitle,
+      ItemFilters['fb'].ItemFilterFBTitleExtract,
       ItemFilters['fb'].ItemFilterFBContent,
       ItemFilters['fb'].ItemFilterFBThumbnail,
       ItemFilters['common'].ItemFilterImageEmbed
@@ -67,7 +68,7 @@ let feedList = [
     feedURL: 'http://fetchrss.com/rss/5f999158644572630d2ebfc36224257a521ba947b2536562.xml',
     itemFilters: [
       // ItemFilters['sites'].ItemFilterFBCheapAOE,
-      ItemFilters['fb'].ItemFilterFBTitle,
+      ItemFilters['fb'].ItemFilterFBTitleExtract,
       ItemFilters['fb'].ItemFilterFBContent,
       ItemFilters['fb'].ItemFilterFBThumbnail,
       // ItemFilters['sites'].ItemFilterFBTomchunTW,
@@ -208,18 +209,21 @@ let feedList = [
 
 // ----------------------------------------------------------------
 
-// feedList = [
-//   {
-//     title: '原價屋coolpc on Facebook',
-//     feedID: 'coolpc-fb',
-//     feedURL: 'http://fetchrss.com/rss/5f999158644572630d2ebfc3622425f7b21ecd56f6380533.xml',
-//     itemFilters: [
-//       ItemFilters['fb'].ItemFilterFBTitle,
-//       ItemFilters['fb'].ItemFilterFBThumbnail,
-//       ItemFilters['common'].ItemFilterImageEmbed,
-//       ItemFilters['sites'].ItemFilterFBCoolPC
-//     ],
-//   },
-// ]
+if (CONFIG.debug) {
+  feedList = [
+    {
+      title: '原價屋coolpc on Facebook',
+      feedID: 'coolpc-fb',
+      feedURL: 'http://fetchrss.com/rss/5f999158644572630d2ebfc3622425f7b21ecd56f6380533.xml',
+      itemFilters: [
+        ItemFilters['fb'].ItemFilterFBTitle,
+        ItemFilters['fb'].ItemFilterFBThumbnail,
+        ItemFilters['common'].ItemFilterImageEmbed,
+        ItemFilters['sites'].ItemFilterFBCoolPC
+      ],
+    },
+  ]
+}
+
 
 module.exports = feedList
