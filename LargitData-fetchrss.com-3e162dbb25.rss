@@ -1,0 +1,237 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></title>
+    <link>http://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.xml</link>
+    <image>
+      <url>https://fastly.picsum.photos/id/610/800/800.jpg?hmac=ksOmwCoPA5SpPhmims4D-T2hQ_IqGBHPc5PpI8RP4B0</url>
+      <title>LargitData - 大數軟體 on Facebook[FB+]</title>
+      <link>http://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.xml</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.rss" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></copyright>
+    <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      大數軟體有限公司 (LargitData Inc) 是一家提供人工智慧(AI)、輿情大數據(Big Data)在雲平台(Cloud)的AI 與大數據分析公司，主要產品包含：RAGi 企業級AI 決策平台、AIMochi - 會議智慧助理與 InfomIner即時輿情分析分析平台。<br />
+<br />
+<a href="https://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.rss" target="_blank">https://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.rss</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      大數軟體有限公司 (LargitData Inc) 是一家提供人工智慧(AI)、輿情大數據(Big Data)在雲平台(Cloud)的AI 與大數據分析公司，主要產品包含：RAGi 企業級AI 決策平台、AIMochi - 會議智慧助理與 InfomIner即時輿情分析分析平台。<br />
+<br />
+<a href="https://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.rss" target="_blank">https://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.rss</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://fastly.picsum.photos/id/610/800/800.jpg?hmac=ksOmwCoPA5SpPhmims4D-T2hQ_IqGBHPc5PpI8RP4B0"/>
+<item>
+      <title><![CDATA[擴散模型LLM成趨勢！Dimple混合策略提升性能]]></title>
+      <link>https://www.facebook.com/1196130575859670/videos/2126179941129029</link>
+      <itunes:title><![CDATA[擴散模型LLM成趨勢！Dimple混合策略提升性能]]></itunes:title>
+      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[擴散模型LLM開始成為新趨勢？！🤔 <br>
+傳統多模態LLM採用自迴歸生成機制，每次都要依序產生Token，而擴散模型具備平行解碼和結構化控制優勢。🤖 <br>
+但研究團隊發現純擴散訓練存在訓練不穩定等問題。為此提出Dimple - 採用「自迴歸-然後-擴散」混合策略：先用自迴歸訓練建立穩定的視覺-語言對齊基礎，再轉換為擴散式訓練恢復平行解碼能力。🔧<br>
+Dimple 特色如下：<br>
+🎯 自信解碼：根據預設置信閾值動態調整每步解碼詞彙數量，生成迭代次數僅需響應長度的1/3，當模型高度自信時可同時解碼多個位置，反之採用保守策略。<br>
+🧠 結構先驗：模型可以先預測出正確答案，再補充完整推理過程。<br>
+⚡ 預填充技術：在性能影響微小的前提下，提供1.5倍至7倍的推理加速效果。 <br>
+在相同訓練資料規模下，Dimple-7B相較於LLaVA-NEXT實現了3.9%的性能提升，在13項基準測試中於8項取得最佳成績，包括GQA（59.2%）、MMBench（74.6%）、POPE（86.2%）等重要指標。📊 <br>
+從 Google 都開始推 Gemini Diffusion 後，有感覺今年的LLM會開始邁向擴散機制！🏆<br>
+<p><a href="https://www.facebook.com/1196130575859670/videos/2126179941129029" target="_blank">[VIDEO] https://www.facebook.com/1196130575859670/videos/2126179941129029</a></p><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[擴散模型LLM開始成為新趨勢？！🤔 <br>
+傳統多模態LLM採用自迴歸生成機制，每次都要依序產生Token，而擴散模型具備平行解碼和結構化控制優勢。🤖 <br>
+但研究團隊發現純擴散訓練存在訓練不穩定等問題。為此提出Dimple - 採用「自迴歸-然後-擴散」混合策略：先用自迴歸訓練建立穩定的視覺-語言對齊基礎，再轉換為擴散式訓練恢復平行解碼能力。🔧<br>
+Dimple 特色如下：<br>
+🎯 自信解碼：根據預設置信閾值動態調整每步解碼詞彙數量，生成迭代次數僅需響應長度的1/3，當模型高度自信時可同時解碼多個位置，反之採用保守策略。<br>
+🧠 結構先驗：模型可以先預測出正確答案，再補充完整推理過程。<br>
+⚡ 預填充技術：在性能影響微小的前提下，提供1.5倍至7倍的推理加速效果。 <br>
+在相同訓練資料規模下，Dimple-7B相較於LLaVA-NEXT實現了3.9%的性能提升，在13項基準測試中於8項取得最佳成績，包括GQA（59.2%）、MMBench（74.6%）、POPE（86.2%）等重要指標。📊 <br>
+從 Google 都開始推 Gemini Diffusion 後，有感覺今年的LLM會開始邁向擴散機制！🏆<br>
+<p><a href="https://www.facebook.com/1196130575859670/videos/2126179941129029" target="_blank">[VIDEO] https://www.facebook.com/1196130575859670/videos/2126179941129029</a></p><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[擴散模型LLM開始成為新趨勢？！🤔 <br>
+傳統多模態LLM採用自迴歸生成機制，每次都要依序產生Token，而擴散模型具備平行解碼和結構化控制優勢。🤖 <br>
+但研究團隊發現純擴散訓練存在訓練不穩定等問題。為此提出Dimple - 採用「自迴歸-然後-擴散」混合策略：先用自迴歸訓練建立穩定的視覺-語言對齊基礎，再轉換為擴散式訓練恢復平行解碼能力。🔧<br>
+Dimple 特色如下：<br>
+🎯 自信解碼：根據預設置信閾值動態調整每步解碼詞彙數量，生成迭代次數僅需響應長度的1/3，當模型高度自信時可同時解碼多個位置，反之採用保守策略。<br>
+🧠 結構先驗：模型可以先預測出正確答案，再補充完整推理過程。<br>
+⚡ 預填充技術：在性能影響微小的前提下，提供1.5倍至7倍的推理加速效果。 <br>
+在相同訓練資料規模下，Dimple-7B相較於LLaVA-NEXT實現了3.9%的性能提升，在13項基準測試中於8項取得最佳成績，包括GQA（59.2%）、MMBench（74.6%）、POPE（86.2%）等重要指標。📊 <br>
+從 Google 都開始推 Gemini Diffusion 後，有感覺今年的LLM會開始邁向擴散機制！🏆<br>
+<p><a href="https://www.facebook.com/1196130575859670/videos/2126179941129029" target="_blank">[VIDEO] https://www.facebook.com/1196130575859670/videos/2126179941129029</a></p><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="undefined"/>
+      <media:content url="undefined" medium="image"/>
+      <pubDate>Sat, 24 May 2025 15:15:08 +0000</pubDate>
+    </item><item>
+      <title><![CDATA[大數軟體連兩年登金融時報亞太高成長500強 非凡新聞報導]]></title>
+      <link>https://www.facebook.com/1196130575859670/videos/665572976293162</link>
+      <itunes:title><![CDATA[大數軟體連兩年登金融時報亞太高成長500強 非凡新聞報導]]></itunes:title>
+      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[感謝非凡新聞報導大數軟體連續兩年榮登英國《金融時報》亞太高成長企業500強的成就！🎉 <br>
+十年前，我們以「大數」為名，從大數據分析起家，致力於協助企業從大數據中挖掘商業價值。📊<br>
+十年後的今天，當AI浪潮席捲全球時，我們決定All In AI，讓企業能更輕鬆、更快速地做出決策。 💡<br>
+所以這幾年我們除了顧好我們的老本 InfoMiner 外，更大量投資AI技術，打造了完整的大數據與AI解決方案：<br>
+📊 InfoMiner 即時輿情分析平台 - 即時掌握、分析全球市場動態<br>
+🧠 RAGi 企業AI決策平台 - 整合內外部資訊，透過 AI Agent 快速生成決策報告<br>
+🤖 AIMochi 你的AI會議助理 - 利用多模態 AI，快速幫你記錄會議、靈感，打造你的第二大腦  <br>
+但 AI 實在是太多好玩的了，所以下一步我們將實現「資料→分析→決策→行動」的完整 AI 平台，讓AI不只會思考，更能真正執行任務，達到「知行合一」的境界！ 🚀<br>
+所以如果你對大數據、AI感興趣的話，歡迎來找我們聊聊歐！💬<br>
+<p><a href="https://www.facebook.com/1196130575859670/videos/665572976293162" target="_blank">[VIDEO] https://www.facebook.com/1196130575859670/videos/665572976293162</a></p><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[感謝非凡新聞報導大數軟體連續兩年榮登英國《金融時報》亞太高成長企業500強的成就！🎉 <br>
+十年前，我們以「大數」為名，從大數據分析起家，致力於協助企業從大數據中挖掘商業價值。📊<br>
+十年後的今天，當AI浪潮席捲全球時，我們決定All In AI，讓企業能更輕鬆、更快速地做出決策。 💡<br>
+所以這幾年我們除了顧好我們的老本 InfoMiner 外，更大量投資AI技術，打造了完整的大數據與AI解決方案：<br>
+📊 InfoMiner 即時輿情分析平台 - 即時掌握、分析全球市場動態<br>
+🧠 RAGi 企業AI決策平台 - 整合內外部資訊，透過 AI Agent 快速生成決策報告<br>
+🤖 AIMochi 你的AI會議助理 - 利用多模態 AI，快速幫你記錄會議、靈感，打造你的第二大腦  <br>
+但 AI 實在是太多好玩的了，所以下一步我們將實現「資料→分析→決策→行動」的完整 AI 平台，讓AI不只會思考，更能真正執行任務，達到「知行合一」的境界！ 🚀<br>
+所以如果你對大數據、AI感興趣的話，歡迎來找我們聊聊歐！💬<br>
+<p><a href="https://www.facebook.com/1196130575859670/videos/665572976293162" target="_blank">[VIDEO] https://www.facebook.com/1196130575859670/videos/665572976293162</a></p><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[感謝非凡新聞報導大數軟體連續兩年榮登英國《金融時報》亞太高成長企業500強的成就！🎉 <br>
+十年前，我們以「大數」為名，從大數據分析起家，致力於協助企業從大數據中挖掘商業價值。📊<br>
+十年後的今天，當AI浪潮席捲全球時，我們決定All In AI，讓企業能更輕鬆、更快速地做出決策。 💡<br>
+所以這幾年我們除了顧好我們的老本 InfoMiner 外，更大量投資AI技術，打造了完整的大數據與AI解決方案：<br>
+📊 InfoMiner 即時輿情分析平台 - 即時掌握、分析全球市場動態<br>
+🧠 RAGi 企業AI決策平台 - 整合內外部資訊，透過 AI Agent 快速生成決策報告<br>
+🤖 AIMochi 你的AI會議助理 - 利用多模態 AI，快速幫你記錄會議、靈感，打造你的第二大腦  <br>
+但 AI 實在是太多好玩的了，所以下一步我們將實現「資料→分析→決策→行動」的完整 AI 平台，讓AI不只會思考，更能真正執行任務，達到「知行合一」的境界！ 🚀<br>
+所以如果你對大數據、AI感興趣的話，歡迎來找我們聊聊歐！💬<br>
+<p><a href="https://www.facebook.com/1196130575859670/videos/665572976293162" target="_blank">[VIDEO] https://www.facebook.com/1196130575859670/videos/665572976293162</a></p><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="undefined"/>
+      <media:content url="undefined" medium="image"/>
+      <pubDate>Fri, 23 May 2025 04:02:35 +0000</pubDate>
+    </item><item>
+      <title><![CDATA[Anthropic發表Claude 4：Opus、Sonnet模型登場 免費版也有]]></title>
+      <link>https://www.facebook.com/1196130575859670/posts/1194587942680600</link>
+      <itunes:title><![CDATA[Anthropic發表Claude 4：Opus、Sonnet模型登場 免費版也有]]></itunes:title>
+      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-8b5ea5b60f.webp"><br>Anthropic 全新推出的 Claude 4 ！除了Sonnet 之外，這次更帶來了 Opus！ 🚀<br>
+🏆 Claude Opus 4<br>
+- 在 SWE-bench 基準測試中取得了 72.5% 的優異成績<br>
+- 能夠連續工作數小時不間斷，輕鬆處理需要數千個步驟的超複雜任務<br>
+- 特別擅長寫程式、解決複雜問題和科學研究領域<br>
+- 能夠創建和維護「記憶」來儲存關鍵資訊，確保長期任務的連貫性<br>
+🚀 Claude Sonnet 4<br>
+- 在效能和實用性之間取得了絕佳平衡<br>
+- 在 SWE-bench 測試中達到了 72.7% ，甚至超越了 Opus 4<br>
+- 不僅能更精準地遵循使用者指令，還能撰寫更高品質的程式碼<br>
+- 最令人興奮的是，連免費使用者都能使用<br>
+兩款模型都配備了革命性的新功能<br>
+- 🧠 「延伸思考」能力，讓AI在進行深度推理的同時使用各種工具(如網路搜尋)，實現真正的多工處理<br>
+- ⚙️ 平行工具執行功能更是突破性地支援同時運行多項工具，大幅提升工作效率<br>
+剛剛發現Cursor 立馬就支援了這兩個模型，看來週末就來用這兩個好助手來Vibe Coding 了！🔥<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-8b5ea5b60f.webp"><br>Anthropic 全新推出的 Claude 4 ！除了Sonnet 之外，這次更帶來了 Opus！ 🚀<br>
+🏆 Claude Opus 4<br>
+- 在 SWE-bench 基準測試中取得了 72.5% 的優異成績<br>
+- 能夠連續工作數小時不間斷，輕鬆處理需要數千個步驟的超複雜任務<br>
+- 特別擅長寫程式、解決複雜問題和科學研究領域<br>
+- 能夠創建和維護「記憶」來儲存關鍵資訊，確保長期任務的連貫性<br>
+🚀 Claude Sonnet 4<br>
+- 在效能和實用性之間取得了絕佳平衡<br>
+- 在 SWE-bench 測試中達到了 72.7% ，甚至超越了 Opus 4<br>
+- 不僅能更精準地遵循使用者指令，還能撰寫更高品質的程式碼<br>
+- 最令人興奮的是，連免費使用者都能使用<br>
+兩款模型都配備了革命性的新功能<br>
+- 🧠 「延伸思考」能力，讓AI在進行深度推理的同時使用各種工具(如網路搜尋)，實現真正的多工處理<br>
+- ⚙️ 平行工具執行功能更是突破性地支援同時運行多項工具，大幅提升工作效率<br>
+剛剛發現Cursor 立馬就支援了這兩個模型，看來週末就來用這兩個好助手來Vibe Coding 了！🔥<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-8b5ea5b60f.webp"><br>Anthropic 全新推出的 Claude 4 ！除了Sonnet 之外，這次更帶來了 Opus！ 🚀<br>
+🏆 Claude Opus 4<br>
+- 在 SWE-bench 基準測試中取得了 72.5% 的優異成績<br>
+- 能夠連續工作數小時不間斷，輕鬆處理需要數千個步驟的超複雜任務<br>
+- 特別擅長寫程式、解決複雜問題和科學研究領域<br>
+- 能夠創建和維護「記憶」來儲存關鍵資訊，確保長期任務的連貫性<br>
+🚀 Claude Sonnet 4<br>
+- 在效能和實用性之間取得了絕佳平衡<br>
+- 在 SWE-bench 測試中達到了 72.7% ，甚至超越了 Opus 4<br>
+- 不僅能更精準地遵循使用者指令，還能撰寫更高品質的程式碼<br>
+- 最令人興奮的是，連免費使用者都能使用<br>
+兩款模型都配備了革命性的新功能<br>
+- 🧠 「延伸思考」能力，讓AI在進行深度推理的同時使用各種工具(如網路搜尋)，實現真正的多工處理<br>
+- ⚙️ 平行工具執行功能更是突破性地支援同時運行多項工具，大幅提升工作效率<br>
+剛剛發現Cursor 立馬就支援了這兩個模型，看來週末就來用這兩個好助手來Vibe Coding 了！🔥<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-8b5ea5b60f.webp"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-8b5ea5b60f.webp" medium="image"/>
+      <pubDate>Thu, 22 May 2025 16:57:19 +0000</pubDate>
+    </item><item>
+      <title><![CDATA[OMG! Claude Sonnet 4、Opus 4 雙雙現身？！]]></title>
+      <link>https://www.facebook.com/1196130575859670/posts/1194575936015134</link>
+      <itunes:title><![CDATA[OMG! Claude Sonnet 4、Opus 4 雙雙現身？！]]></itunes:title>
+      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-ff480a7dc2.jpg"><br>OMG，Claude Sonnet 4！還有 Claude Opus 4 ？！<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-ff480a7dc2.jpg"><br>OMG，Claude Sonnet 4！還有 Claude Opus 4 ？！<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-ff480a7dc2.jpg"><br>OMG，Claude Sonnet 4！還有 Claude Opus 4 ？！<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-ff480a7dc2.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-ff480a7dc2.jpg" medium="image"/>
+      <pubDate>Thu, 22 May 2025 16:36:06 +0000</pubDate>
+    </item><item>
+      <title><![CDATA[k8s跑LLM遇瓶頸？RH/Google/IBM推llm-d框架解決，效能飆升3倍！]]></title>
+      <link>https://www.facebook.com/1196130575859670/posts/1194499592689435</link>
+      <itunes:title><![CDATA[k8s跑LLM遇瓶頸？RH/Google/IBM推llm-d框架解決，效能飆升3倍！]]></itunes:title>
+      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-e4a749b279.jpg"><br>想用k8s跑LLM? ！你需要這個神器！💪<br>
+傳統k8s在處理LLM推理任務時，因為 LLM 具有資源消耗不均、需要快取優化、推理需求不同等特性，而顯得力不從心。🚀 <br>
+為此，Red Hat、Google和IBM聯合推出了建構在vLLM、k8s和Inference Gateway之上的分散式 LLM 推理框架 - llm-d。<br>
+💡 四大核心創新：<br>
+🧭 智慧任務分配：像智慧導航一樣，系統會記住之前處理過的內容，並將新請求分配給最適合的伺服器，避免重複計算。<br>
+🏭 專業分工：就像工廠生產線，將 AI 推理拆成「理解問題」和「生成答案」兩個專門工作站，各自優化效率。<br>
+💾 靈活的記憶體管理：從簡單的本地快取到高效的共享記憶體，根據需求選擇最合適的資料儲存方式。<br>
+🌡️ 自動調節資源：像冷氣自動調溫，系統會根據使用量和硬體自動增減伺服器數量，確保服務品質。<br>
+在使用兩個 NVIDIA 8xH100 節點的測試中，llm-d 展現了顯著性能提升：LlaMA 4 Scout 和 Llama 3.1 70B 模型的回應速度提升 3 倍、處理量提升 50% 到 2 倍，同時維持穩定的服務品質。📊<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-e4a749b279.jpg"><br>想用k8s跑LLM? ！你需要這個神器！💪<br>
+傳統k8s在處理LLM推理任務時，因為 LLM 具有資源消耗不均、需要快取優化、推理需求不同等特性，而顯得力不從心。🚀 <br>
+為此，Red Hat、Google和IBM聯合推出了建構在vLLM、k8s和Inference Gateway之上的分散式 LLM 推理框架 - llm-d。<br>
+💡 四大核心創新：<br>
+🧭 智慧任務分配：像智慧導航一樣，系統會記住之前處理過的內容，並將新請求分配給最適合的伺服器，避免重複計算。<br>
+🏭 專業分工：就像工廠生產線，將 AI 推理拆成「理解問題」和「生成答案」兩個專門工作站，各自優化效率。<br>
+💾 靈活的記憶體管理：從簡單的本地快取到高效的共享記憶體，根據需求選擇最合適的資料儲存方式。<br>
+🌡️ 自動調節資源：像冷氣自動調溫，系統會根據使用量和硬體自動增減伺服器數量，確保服務品質。<br>
+在使用兩個 NVIDIA 8xH100 節點的測試中，llm-d 展現了顯著性能提升：LlaMA 4 Scout 和 Llama 3.1 70B 模型的回應速度提升 3 倍、處理量提升 50% 到 2 倍，同時維持穩定的服務品質。📊<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-e4a749b279.jpg"><br>想用k8s跑LLM? ！你需要這個神器！💪<br>
+傳統k8s在處理LLM推理任務時，因為 LLM 具有資源消耗不均、需要快取優化、推理需求不同等特性，而顯得力不從心。🚀 <br>
+為此，Red Hat、Google和IBM聯合推出了建構在vLLM、k8s和Inference Gateway之上的分散式 LLM 推理框架 - llm-d。<br>
+💡 四大核心創新：<br>
+🧭 智慧任務分配：像智慧導航一樣，系統會記住之前處理過的內容，並將新請求分配給最適合的伺服器，避免重複計算。<br>
+🏭 專業分工：就像工廠生產線，將 AI 推理拆成「理解問題」和「生成答案」兩個專門工作站，各自優化效率。<br>
+💾 靈活的記憶體管理：從簡單的本地快取到高效的共享記憶體，根據需求選擇最合適的資料儲存方式。<br>
+🌡️ 自動調節資源：像冷氣自動調溫，系統會根據使用量和硬體自動增減伺服器數量，確保服務品質。<br>
+在使用兩個 NVIDIA 8xH100 節點的測試中，llm-d 展現了顯著性能提升：LlaMA 4 Scout 和 Llama 3.1 70B 模型的回應速度提升 3 倍、處理量提升 50% 到 2 倍，同時維持穩定的服務品質。📊<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-e4a749b279.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-e4a749b279.jpg" medium="image"/>
+      <pubDate>Thu, 22 May 2025 14:52:44 +0000</pubDate>
+    </item></channel>
+</rss>
