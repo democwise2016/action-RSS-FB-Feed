@@ -196,7 +196,8 @@ let feedList = [
   //     ItemFilters['fb'].ItemFilterFB,
   //   ],
   // },
-  // {
+  //
+ {
     title: 'LargitData - 大數軟體 on Facebook',
     feedID: 'LargitData',
     feedURL: 'https://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.rss',
