@@ -21,12 +21,12 @@ let CONFIG = {
   // feedList
 }
 
-// let test = '1783'
+let test = '1783'
 
-// CONFIG.publicURL = `https://dangerous-lizard-99.telebit.io/`
-// CONFIG.titleAppend = '[RSS+] 20240815-' + test
-// CONFIG.idAppend = '20240815-' + test
-// CONFIG.maxDownloadItemPerFeed = 3
-// CONFIG.debug = true
+CONFIG.publicURL = `https://dangerous-lizard-99.telebit.io/`
+CONFIG.titleAppend = '[RSS+] 20240815-' + test
+CONFIG.idAppend = '20240815-' + test
+CONFIG.maxDownloadItemPerFeed = 3
+CONFIG.debug = true
 
 module.exports = CONFIG
