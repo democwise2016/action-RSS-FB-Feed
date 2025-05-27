@@ -3,7 +3,7 @@
     <title><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></title>
     <link>http://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.xml</link>
     <image>
-      <url>https://fastly.picsum.photos/id/75/800/800.jpg?hmac=wl9nxuab8VcA4ejhXLQm2UCQlTAuyH_iU8ShOixBTQI</url>
+      <url>https://fastly.picsum.photos/id/225/800/800.jpg?hmac=2lBMhahusQmonXuCxmYQfCiYs0dGFqSSw1mLlqxkxjc</url>
       <title>LargitData - 大數軟體 on Facebook[FB+]</title>
       <link>http://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.xml</link>
     </image>
@@ -28,14 +28,125 @@
     <itunes:owner>
       <itunes:name><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/75/800/800.jpg?hmac=wl9nxuab8VcA4ejhXLQm2UCQlTAuyH_iU8ShOixBTQI"/>
+    <itunes:image href="https://fastly.picsum.photos/id/225/800/800.jpg?hmac=2lBMhahusQmonXuCxmYQfCiYs0dGFqSSw1mLlqxkxjc"/>
 <item>
+      <title><![CDATA[AlphaEvolve才出 Google開源版OpenEvolve快速登場複製成果]]></title>
+      <link>https://www.facebook.com/1196130575859670/posts/1198476112291783</link>
+      <itunes:title><![CDATA[AlphaEvolve才出 Google開源版OpenEvolve快速登場複製成果]]></itunes:title>
+      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-648c672472.jpg"><br>沒想到開源版的 AlphaEvolve 這麼快就來了！😎 <br>
+Google 的 AlphaEvolve 才剛出爐，開源社群就迅速推出了 OpenEvolve。🚀<br>
+OpenEvolve 是一個演化式程式設計Agent，透過迭代過程來優化程式碼。🌐 <br>
+🗂️ 特色如下：<br>
+- 完整檔案演化：不僅優化單一函數，而是能夠演化整個程式。<br>
+- 多語言與多模型支援：支援多種程式語言，並可整合多種LLM。<br>
+- 多目標與分散式優化：同時優化多個目標，支援分散式評估以提升處理效能。<br>
+⚙️ 核心架構包含：<br>
+- 提示採樣器：建立程式碼、評分結果和問題描述作為上下文，充分提供背景知識。<br>
+- LLM 集合：透過多個LLM協作生成程式碼修改建議，結合不同模型產生多樣化的高品質解決方案。<br>
+- 評估池：測試生成的程式並分配分數，評估多種指標如執行時間、程式碼品質等。<br>
+- 程式資料庫：儲存程式及評估指標，記錄演化歷史，指導未來的演化過程。<br>
+更厲害的是，OpenEvolve 在多個挑戰性問題上成功複製了 AlphaEvolve 的結果！😎<br>
+看來開源界的 swag 就是：你不開源，我就開源你的閉源！ 🔓<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-648c672472.jpg"><br>沒想到開源版的 AlphaEvolve 這麼快就來了！😎 <br>
+Google 的 AlphaEvolve 才剛出爐，開源社群就迅速推出了 OpenEvolve。🚀<br>
+OpenEvolve 是一個演化式程式設計Agent，透過迭代過程來優化程式碼。🌐 <br>
+🗂️ 特色如下：<br>
+- 完整檔案演化：不僅優化單一函數，而是能夠演化整個程式。<br>
+- 多語言與多模型支援：支援多種程式語言，並可整合多種LLM。<br>
+- 多目標與分散式優化：同時優化多個目標，支援分散式評估以提升處理效能。<br>
+⚙️ 核心架構包含：<br>
+- 提示採樣器：建立程式碼、評分結果和問題描述作為上下文，充分提供背景知識。<br>
+- LLM 集合：透過多個LLM協作生成程式碼修改建議，結合不同模型產生多樣化的高品質解決方案。<br>
+- 評估池：測試生成的程式並分配分數，評估多種指標如執行時間、程式碼品質等。<br>
+- 程式資料庫：儲存程式及評估指標，記錄演化歷史，指導未來的演化過程。<br>
+更厲害的是，OpenEvolve 在多個挑戰性問題上成功複製了 AlphaEvolve 的結果！😎<br>
+看來開源界的 swag 就是：你不開源，我就開源你的閉源！ 🔓<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-648c672472.jpg"><br>沒想到開源版的 AlphaEvolve 這麼快就來了！😎 <br>
+Google 的 AlphaEvolve 才剛出爐，開源社群就迅速推出了 OpenEvolve。🚀<br>
+OpenEvolve 是一個演化式程式設計Agent，透過迭代過程來優化程式碼。🌐 <br>
+🗂️ 特色如下：<br>
+- 完整檔案演化：不僅優化單一函數，而是能夠演化整個程式。<br>
+- 多語言與多模型支援：支援多種程式語言，並可整合多種LLM。<br>
+- 多目標與分散式優化：同時優化多個目標，支援分散式評估以提升處理效能。<br>
+⚙️ 核心架構包含：<br>
+- 提示採樣器：建立程式碼、評分結果和問題描述作為上下文，充分提供背景知識。<br>
+- LLM 集合：透過多個LLM協作生成程式碼修改建議，結合不同模型產生多樣化的高品質解決方案。<br>
+- 評估池：測試生成的程式並分配分數，評估多種指標如執行時間、程式碼品質等。<br>
+- 程式資料庫：儲存程式及評估指標，記錄演化歷史，指導未來的演化過程。<br>
+更厲害的是，OpenEvolve 在多個挑戰性問題上成功複製了 AlphaEvolve 的結果！😎<br>
+看來開源界的 swag 就是：你不開源，我就開源你的閉源！ 🔓<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-648c672472.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-648c672472.jpg" medium="image"/>
+      <pubDate>Tue, 27 May 2025 13:24:14 +0000</pubDate>
+    </item><item>
+      <title><![CDATA[字節跳動BAGEL模型亮相：14B參數匹敵GPT-4o多模態能力]]></title>
+      <link>https://www.facebook.com/1196130575859670/videos/1223863896415373</link>
+      <itunes:title><![CDATA[字節跳動BAGEL模型亮相：14B參數匹敵GPT-4o多模態能力]]></itunes:title>
+      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[只要14B參數（7B活躍參數）就能實現與GPT-4o相媲美的多模態能力？！🧐<br>
+字節跳動發布了BAGEL模型，可以同時進行圖像理解、文字生成圖像和圖像編輯。✏️<br>
+BAGEL採用混合Transformer專家（MoT）架構：<br>
+🔍VAE編碼器，專門處理像素級細節，確保圖像生成的高保真度<br>
+🧠ViT編碼器，負責語義級理解，深度解析圖像內容含義。<br>
+模型遵循「預測下一Token」，將文字和視覺內容統一處理為標記序列，實現真正的多模態融合。這種設計讓BAGEL能夠無縫切換理解和生成任務。🎯<br>
+📈訓練採用三階段策略：<br>
+1. 預訓練建立基礎能力<br>
+2. 持續訓練優化性能<br>
+3. 針對具體任務進行監督微調。<br>
+BAGEL表現優異。多模態理解測試中：MME-P達1687分、MMBench獲85.0分、MMMU得55.3分、MMVet取67.2分，全面超越Qwen2.5-VL和InternVL-2.5等開源模型。📊<br>
+圖像生成方面，BAGEL整體評分0.88分，與Stable Diffusion 3 表現相當。🏆<br>
+模型還具備「思考」能力，在生成前進行推理分析，確保輸出的邏輯性和一致性。💭<br>
+<p><a href="https://www.facebook.com/1196130575859670/videos/1223863896415373" target="_blank">[VIDEO] https://www.facebook.com/1196130575859670/videos/1223863896415373</a></p><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[只要14B參數（7B活躍參數）就能實現與GPT-4o相媲美的多模態能力？！🧐<br>
+字節跳動發布了BAGEL模型，可以同時進行圖像理解、文字生成圖像和圖像編輯。✏️<br>
+BAGEL採用混合Transformer專家（MoT）架構：<br>
+🔍VAE編碼器，專門處理像素級細節，確保圖像生成的高保真度<br>
+🧠ViT編碼器，負責語義級理解，深度解析圖像內容含義。<br>
+模型遵循「預測下一Token」，將文字和視覺內容統一處理為標記序列，實現真正的多模態融合。這種設計讓BAGEL能夠無縫切換理解和生成任務。🎯<br>
+📈訓練採用三階段策略：<br>
+1. 預訓練建立基礎能力<br>
+2. 持續訓練優化性能<br>
+3. 針對具體任務進行監督微調。<br>
+BAGEL表現優異。多模態理解測試中：MME-P達1687分、MMBench獲85.0分、MMMU得55.3分、MMVet取67.2分，全面超越Qwen2.5-VL和InternVL-2.5等開源模型。📊<br>
+圖像生成方面，BAGEL整體評分0.88分，與Stable Diffusion 3 表現相當。🏆<br>
+模型還具備「思考」能力，在生成前進行推理分析，確保輸出的邏輯性和一致性。💭<br>
+<p><a href="https://www.facebook.com/1196130575859670/videos/1223863896415373" target="_blank">[VIDEO] https://www.facebook.com/1196130575859670/videos/1223863896415373</a></p><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[只要14B參數（7B活躍參數）就能實現與GPT-4o相媲美的多模態能力？！🧐<br>
+字節跳動發布了BAGEL模型，可以同時進行圖像理解、文字生成圖像和圖像編輯。✏️<br>
+BAGEL採用混合Transformer專家（MoT）架構：<br>
+🔍VAE編碼器，專門處理像素級細節，確保圖像生成的高保真度<br>
+🧠ViT編碼器，負責語義級理解，深度解析圖像內容含義。<br>
+模型遵循「預測下一Token」，將文字和視覺內容統一處理為標記序列，實現真正的多模態融合。這種設計讓BAGEL能夠無縫切換理解和生成任務。🎯<br>
+📈訓練採用三階段策略：<br>
+1. 預訓練建立基礎能力<br>
+2. 持續訓練優化性能<br>
+3. 針對具體任務進行監督微調。<br>
+BAGEL表現優異。多模態理解測試中：MME-P達1687分、MMBench獲85.0分、MMMU得55.3分、MMVet取67.2分，全面超越Qwen2.5-VL和InternVL-2.5等開源模型。📊<br>
+圖像生成方面，BAGEL整體評分0.88分，與Stable Diffusion 3 表現相當。🏆<br>
+模型還具備「思考」能力，在生成前進行推理分析，確保輸出的邏輯性和一致性。💭<br>
+<p><a href="https://www.facebook.com/1196130575859670/videos/1223863896415373" target="_blank">[VIDEO] https://www.facebook.com/1196130575859670/videos/1223863896415373</a></p><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="undefined"/>
+      <media:content url="undefined" medium="image"/>
+      <pubDate>Mon, 26 May 2025 12:50:09 +0000</pubDate>
+    </item><item>
       <title><![CDATA[SeleniumBase：終結Selenium不穩定！智慧等待、隱身模式，自動化更高效]]></title>
       <link>https://www.facebook.com/1196130575859670/videos/1337995060637542</link>
       <itunes:title><![CDATA[SeleniumBase：終結Selenium不穩定！智慧等待、隱身模式，自動化更高效]]></itunes:title>
       <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
       <itunes:summary>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-ba829cbb34.jpg"><br>還在為 Selenium 的不穩定而煩惱嗎？ 🤔 <br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-0a97c70b00.jpg"><br>還在為 Selenium 的不穩定而煩惱嗎？ 🤔 <br>
 快來看看 SeleniumBase 這專案，完美解決了Selenium的各種痛點！🚀<br>
 ✨ 主要特色：<br>
 🎯 智慧等待機制 - 徹底告別測試失敗的困擾  <br>
@@ -48,7 +159,7 @@
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
       </itunes:summary>
       <description>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-ba829cbb34.jpg"><br>還在為 Selenium 的不穩定而煩惱嗎？ 🤔 <br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-0a97c70b00.jpg"><br>還在為 Selenium 的不穩定而煩惱嗎？ 🤔 <br>
 快來看看 SeleniumBase 這專案，完美解決了Selenium的各種痛點！🚀<br>
 ✨ 主要特色：<br>
 🎯 智慧等待機制 - 徹底告別測試失敗的困擾  <br>
@@ -60,7 +171,7 @@
 如果你的日常工作有網頁自動化需求，這個專案絕對值得一試！⭐<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
       </description>
-      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-ba829cbb34.jpg"><br>還在為 Selenium 的不穩定而煩惱嗎？ 🤔 <br>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-0a97c70b00.jpg"><br>還在為 Selenium 的不穩定而煩惱嗎？ 🤔 <br>
 快來看看 SeleniumBase 這專案，完美解決了Selenium的各種痛點！🚀<br>
 ✨ 主要特色：<br>
 🎯 智慧等待機制 - 徹底告別測試失敗的困擾  <br>
@@ -71,8 +182,8 @@
 相比原生 Selenium提供了更穩定的測試體驗。不管是網站測試、爬蟲開發還是自動化流程，都能讓你事半功倍！🔥<br>
 如果你的日常工作有網頁自動化需求，這個專案絕對值得一試！⭐<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
-      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-ba829cbb34.jpg"/>
-      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-ba829cbb34.jpg" medium="image"/>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-0a97c70b00.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-0a97c70b00.jpg" medium="image"/>
       <pubDate>Sun, 25 May 2025 14:48:42 +0000</pubDate>
     </item><item>
       <title><![CDATA[擴散模型LLM成趨勢！Dimple混合策略提升性能]]></title>
@@ -158,83 +269,5 @@ Dimple 特色如下：<br>
       <itunes:image href="undefined"/>
       <media:content url="undefined" medium="image"/>
       <pubDate>Fri, 23 May 2025 04:02:35 +0000</pubDate>
-    </item><item>
-      <title><![CDATA[Anthropic發表Claude 4：Opus、Sonnet模型登場 免費版也有]]></title>
-      <link>https://www.facebook.com/1196130575859670/posts/1194587942680600</link>
-      <itunes:title><![CDATA[Anthropic發表Claude 4：Opus、Sonnet模型登場 免費版也有]]></itunes:title>
-      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-55943a4708.webp"><br>Anthropic 全新推出的 Claude 4 ！除了Sonnet 之外，這次更帶來了 Opus！ 🚀<br>
-🏆 Claude Opus 4<br>
-- 在 SWE-bench 基準測試中取得了 72.5% 的優異成績<br>
-- 能夠連續工作數小時不間斷，輕鬆處理需要數千個步驟的超複雜任務<br>
-- 特別擅長寫程式、解決複雜問題和科學研究領域<br>
-- 能夠創建和維護「記憶」來儲存關鍵資訊，確保長期任務的連貫性<br>
-🚀 Claude Sonnet 4<br>
-- 在效能和實用性之間取得了絕佳平衡<br>
-- 在 SWE-bench 測試中達到了 72.7% ，甚至超越了 Opus 4<br>
-- 不僅能更精準地遵循使用者指令，還能撰寫更高品質的程式碼<br>
-- 最令人興奮的是，連免費使用者都能使用<br>
-兩款模型都配備了革命性的新功能<br>
-- 🧠 「延伸思考」能力，讓AI在進行深度推理的同時使用各種工具(如網路搜尋)，實現真正的多工處理<br>
-- ⚙️ 平行工具執行功能更是突破性地支援同時運行多項工具，大幅提升工作效率<br>
-剛剛發現Cursor 立馬就支援了這兩個模型，看來週末就來用這兩個好助手來Vibe Coding 了！🔥<br>
-<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-55943a4708.webp"><br>Anthropic 全新推出的 Claude 4 ！除了Sonnet 之外，這次更帶來了 Opus！ 🚀<br>
-🏆 Claude Opus 4<br>
-- 在 SWE-bench 基準測試中取得了 72.5% 的優異成績<br>
-- 能夠連續工作數小時不間斷，輕鬆處理需要數千個步驟的超複雜任務<br>
-- 特別擅長寫程式、解決複雜問題和科學研究領域<br>
-- 能夠創建和維護「記憶」來儲存關鍵資訊，確保長期任務的連貫性<br>
-🚀 Claude Sonnet 4<br>
-- 在效能和實用性之間取得了絕佳平衡<br>
-- 在 SWE-bench 測試中達到了 72.7% ，甚至超越了 Opus 4<br>
-- 不僅能更精準地遵循使用者指令，還能撰寫更高品質的程式碼<br>
-- 最令人興奮的是，連免費使用者都能使用<br>
-兩款模型都配備了革命性的新功能<br>
-- 🧠 「延伸思考」能力，讓AI在進行深度推理的同時使用各種工具(如網路搜尋)，實現真正的多工處理<br>
-- ⚙️ 平行工具執行功能更是突破性地支援同時運行多項工具，大幅提升工作效率<br>
-剛剛發現Cursor 立馬就支援了這兩個模型，看來週末就來用這兩個好助手來Vibe Coding 了！🔥<br>
-<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
-      </description>
-      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-55943a4708.webp"><br>Anthropic 全新推出的 Claude 4 ！除了Sonnet 之外，這次更帶來了 Opus！ 🚀<br>
-🏆 Claude Opus 4<br>
-- 在 SWE-bench 基準測試中取得了 72.5% 的優異成績<br>
-- 能夠連續工作數小時不間斷，輕鬆處理需要數千個步驟的超複雜任務<br>
-- 特別擅長寫程式、解決複雜問題和科學研究領域<br>
-- 能夠創建和維護「記憶」來儲存關鍵資訊，確保長期任務的連貫性<br>
-🚀 Claude Sonnet 4<br>
-- 在效能和實用性之間取得了絕佳平衡<br>
-- 在 SWE-bench 測試中達到了 72.7% ，甚至超越了 Opus 4<br>
-- 不僅能更精準地遵循使用者指令，還能撰寫更高品質的程式碼<br>
-- 最令人興奮的是，連免費使用者都能使用<br>
-兩款模型都配備了革命性的新功能<br>
-- 🧠 「延伸思考」能力，讓AI在進行深度推理的同時使用各種工具(如網路搜尋)，實現真正的多工處理<br>
-- ⚙️ 平行工具執行功能更是突破性地支援同時運行多項工具，大幅提升工作效率<br>
-剛剛發現Cursor 立馬就支援了這兩個模型，看來週末就來用這兩個好助手來Vibe Coding 了！🔥<br>
-<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
-      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-55943a4708.webp"/>
-      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-55943a4708.webp" medium="image"/>
-      <pubDate>Thu, 22 May 2025 16:57:19 +0000</pubDate>
-    </item><item>
-      <title><![CDATA[OMG! Claude Sonnet 4、Opus 4 雙雙現身？！]]></title>
-      <link>https://www.facebook.com/1196130575859670/posts/1194575936015134</link>
-      <itunes:title><![CDATA[OMG! Claude Sonnet 4、Opus 4 雙雙現身？！]]></itunes:title>
-      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-9df8c02147.jpg"><br>OMG，Claude Sonnet 4！還有 Claude Opus 4 ？！<br>
-<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-9df8c02147.jpg"><br>OMG，Claude Sonnet 4！還有 Claude Opus 4 ？！<br>
-<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
-      </description>
-      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-9df8c02147.jpg"><br>OMG，Claude Sonnet 4！還有 Claude Opus 4 ？！<br>
-<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
-      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-9df8c02147.jpg"/>
-      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-9df8c02147.jpg" medium="image"/>
-      <pubDate>Thu, 22 May 2025 16:36:06 +0000</pubDate>
     </item></channel>
 </rss>
