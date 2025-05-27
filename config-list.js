@@ -217,10 +217,7 @@ if (CONFIG.debug) {
       feedID: 'coolpc-fb',
       feedURL: 'http://fetchrss.com/rss/5f999158644572630d2ebfc3622425f7b21ecd56f6380533.xml',
       itemFilters: [
-        ItemFilters['fb'].ItemFilterFBTitle,
-        ItemFilters['fb'].ItemFilterFBThumbnail,
-        ItemFilters['common'].ItemFilterImageEmbed,
-        ItemFilters['sites'].ItemFilterFBCoolPC
+        ItemFilters['fb'].ItemFilterFB,
       ],
     },
   ]
