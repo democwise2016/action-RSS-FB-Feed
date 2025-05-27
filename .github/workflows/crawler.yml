@@ -3,7 +3,8 @@ name: Crawler
 on: 
   push:
   schedule:
-    - cron:  "5 6,14,22 * * *" # 實際執行時間是這個時間加八小時
+    # 因為Fetch RSS一天只會更新一次，所以不用這麼頻繁更新也沒關係
+    - cron:  "5 22 * * *" # 實際執行時間是這個時間加八小時
   #   - cron:  "5 6 * * *" # 實際執行時間是這個時間加八小時
   #   - cron:  "5 14 * * *" # 實際執行時間是這個時間加八小時
   workflow_dispatch:
@@ -170,6 +171,6 @@ jobs:
       # ----------------------------------------------------------------
 
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4.6.5
+        uses: JamesIves/github-pages-deploy-action@v4.7.3
         with:
           folder: output # The folder the action should deploy.

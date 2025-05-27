@@ -196,15 +196,16 @@ let feedList = [
   //     ItemFilters['fb'].ItemFilterFB,
   //   ],
   // },
-  // {
-  //   title: '唯香小館 on Facebook',
-  //   feedID: 'xinchun_st-weixiang',
-  //   feedURL: 'https://fetchrss.com/rss/66114cb4b1e7592f390cb53266114b739929a040586b9012.xml',
-  //   itemFilters: [
-  //     // ItemFilters['sites'].ItemFilterFBCheapAOE,
-  //     ItemFilters['fb'].ItemFilterFB,
-  //   ],
-  // },
+  //
+ {
+    title: 'LargitData - 大數軟體 on Facebook',
+    feedID: 'LargitData',
+    feedURL: 'https://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.rss',
+    itemFilters: [
+      // ItemFilters['sites'].ItemFilterFBCheapAOE,
+      ItemFilters['fb'].ItemFilterFB,
+    ],
+  },
 ]
 
 // ----------------------------------------------------------------

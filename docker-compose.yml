@@ -4,7 +4,11 @@ version: "3"
 services:
   app:
     # build: .
+<<<<<<< HEAD
     image: pudding/docker-image-base:action-RSS-FB-Feed-Docker-Image-20250527.195613
+=======
+    image: pudding/docker-image-base:action-RSS-FB-Feed-Docker-Image-20250523.072212
+>>>>>>> 4e795984a7e505063564d6eec0936f2a7edcc21f
     tty: true
     volumes: 
       - ./output:/output/
