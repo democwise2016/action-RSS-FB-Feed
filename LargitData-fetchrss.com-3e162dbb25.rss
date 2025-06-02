@@ -1,0 +1,291 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></title>
+    <link>http://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.xml</link>
+    <image>
+      <url>https://fastly.picsum.photos/id/973/800/800.jpg?hmac=yHdlbaXcShSCURSpWjqSOOpZP2pjmQfwQdK4FU8aFso</url>
+      <title>LargitData - 大數軟體 on Facebook[FB+]</title>
+      <link>http://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.xml</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.rss" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></copyright>
+    <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      大數軟體有限公司 (LargitData Inc) 是一家提供人工智慧(AI)、輿情大數據(Big Data)在雲平台(Cloud)的AI 與大數據分析公司，主要產品包含：RAGi 企業級AI 決策平台、AIMochi - 會議智慧助理與 InfomIner即時輿情分析分析平台。<br />
+<br />
+<a href="https://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.rss" target="_blank">https://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.rss</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      大數軟體有限公司 (LargitData Inc) 是一家提供人工智慧(AI)、輿情大數據(Big Data)在雲平台(Cloud)的AI 與大數據分析公司，主要產品包含：RAGi 企業級AI 決策平台、AIMochi - 會議智慧助理與 InfomIner即時輿情分析分析平台。<br />
+<br />
+<a href="https://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.rss" target="_blank">https://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.rss</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://fastly.picsum.photos/id/973/800/800.jpg?hmac=yHdlbaXcShSCURSpWjqSOOpZP2pjmQfwQdK4FU8aFso"/>
+<item>
+      <title><![CDATA[AI原生OpenDeRisk開源 終結手動運維困境 打造7x24H智慧SRE]]></title>
+      <link>https://www.facebook.com/1196130575859670/posts/1202507168555344</link>
+      <itunes:title><![CDATA[AI原生OpenDeRisk開源 終結手動運維困境 打造7x24H智慧SRE]]></itunes:title>
+      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-5b88a2a0e7.jpg"><br>傳統的系統運維大多靠人工監控，不但成本高昂，面對複雜系統的故障診斷需求更是力不從心。🛠️ <br>
+有團隊推出開源專案 OpenDeRisk，這是一個 AI 原生風險智慧系統，專門打造 7×24H AI-SRE。願景是為每個應用系統提供一個 7×24H 的 AI 系統數位管家，能與真人協同，7×24H 處理業務問題。🚀 <br>
+OpenDeRisk 四大特性<br>
+🔍 DeepResearch RCA：通過深度分析日誌、Trace、程式碼進行問題根因的快速定位。<br>
+📋 可視化證據鏈：定位診斷過程與證據鏈全部可視化展示，診斷過程一目了然，可以快速判斷定位的準確性。<br>
+🤝 多智慧體協同：SRE-Agent、Code-Agent、ReportAgent、Vis-Agent、Data-Agent 協同工作。<br>
+🔓 架構開源開放：OpenDeRisk 採用完全開源、開放的方式構建，相關框架、程式碼在開源專案也能實現開箱即用。<br>
+真能夠透過 AI 24H 維運的話，那是不是以後就不用這麼辛苦輪班了？！🤔<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-5b88a2a0e7.jpg"><br>傳統的系統運維大多靠人工監控，不但成本高昂，面對複雜系統的故障診斷需求更是力不從心。🛠️ <br>
+有團隊推出開源專案 OpenDeRisk，這是一個 AI 原生風險智慧系統，專門打造 7×24H AI-SRE。願景是為每個應用系統提供一個 7×24H 的 AI 系統數位管家，能與真人協同，7×24H 處理業務問題。🚀 <br>
+OpenDeRisk 四大特性<br>
+🔍 DeepResearch RCA：通過深度分析日誌、Trace、程式碼進行問題根因的快速定位。<br>
+📋 可視化證據鏈：定位診斷過程與證據鏈全部可視化展示，診斷過程一目了然，可以快速判斷定位的準確性。<br>
+🤝 多智慧體協同：SRE-Agent、Code-Agent、ReportAgent、Vis-Agent、Data-Agent 協同工作。<br>
+🔓 架構開源開放：OpenDeRisk 採用完全開源、開放的方式構建，相關框架、程式碼在開源專案也能實現開箱即用。<br>
+真能夠透過 AI 24H 維運的話，那是不是以後就不用這麼辛苦輪班了？！🤔<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-5b88a2a0e7.jpg"><br>傳統的系統運維大多靠人工監控，不但成本高昂，面對複雜系統的故障診斷需求更是力不從心。🛠️ <br>
+有團隊推出開源專案 OpenDeRisk，這是一個 AI 原生風險智慧系統，專門打造 7×24H AI-SRE。願景是為每個應用系統提供一個 7×24H 的 AI 系統數位管家，能與真人協同，7×24H 處理業務問題。🚀 <br>
+OpenDeRisk 四大特性<br>
+🔍 DeepResearch RCA：通過深度分析日誌、Trace、程式碼進行問題根因的快速定位。<br>
+📋 可視化證據鏈：定位診斷過程與證據鏈全部可視化展示，診斷過程一目了然，可以快速判斷定位的準確性。<br>
+🤝 多智慧體協同：SRE-Agent、Code-Agent、ReportAgent、Vis-Agent、Data-Agent 協同工作。<br>
+🔓 架構開源開放：OpenDeRisk 採用完全開源、開放的方式構建，相關框架、程式碼在開源專案也能實現開箱即用。<br>
+真能夠透過 AI 24H 維運的話，那是不是以後就不用這麼辛苦輪班了？！🤔<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-5b88a2a0e7.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-5b88a2a0e7.jpg" medium="image"/>
+      <pubDate>Sun, 01 Jun 2025 15:21:00 +0000</pubDate>
+    </item><item>
+      <title><![CDATA[DeepEval：像單元測試般系統化評估LLM，涵蓋效能與安全]]></title>
+      <link>https://www.facebook.com/1196130575859670/posts/1200904615382266</link>
+      <itunes:title><![CDATA[DeepEval：像單元測試般系統化評估LLM，涵蓋效能與安全]]></itunes:title>
+      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-a19fb30cff.jpg"><br>要如何有效評估你的AI系統呢？🤔 <br>
+由 Confident AI 開發的 DeepEval 借鑑 Pytest，讓開發者能夠像進行單元測試一樣，對 LLM 系統進行系統化評估。💡<br>
+🔧 核心評估能力<br>
+• 多層級評估 - 支援端到端評估 <br>
+• 豐富指標 - 提供現成評估指標  <br>
+• 非侵入式設計 - 透過 @ observe 裝飾器，無需修改現有程式碼<br>
+• 完美整合 - 整合 LangChain、LlamaIndex 等主流框架<br>
+📈 主要評估指標<br>
+• G-Eval - 基於研究的通用評估指標 <br>
+• RAG 指標 - 答案相關性、忠實度、上下文品質等 <br>
+• 安全指標 - 幻覺、偏見、毒性檢測 <br>
+• 對話指標 - 知識保持、對話完整性、角色遵循度 <br>
+• 代理指標 - 任務完成度、工具正確性 <br>
+DeepEval 提供強大的紅隊測試能力，能檢測超過 40 種安全漏洞，採用 10+ 種進階攻擊策略模擬真實場景。⚔️ <br>
+框架完美整合 CI/CD 環境，支援 MMLU、HellaSwag、TruthfulQA 等標準基準測試，讓模型比較變得簡單直觀。📋<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-a19fb30cff.jpg"><br>要如何有效評估你的AI系統呢？🤔 <br>
+由 Confident AI 開發的 DeepEval 借鑑 Pytest，讓開發者能夠像進行單元測試一樣，對 LLM 系統進行系統化評估。💡<br>
+🔧 核心評估能力<br>
+• 多層級評估 - 支援端到端評估 <br>
+• 豐富指標 - 提供現成評估指標  <br>
+• 非侵入式設計 - 透過 @ observe 裝飾器，無需修改現有程式碼<br>
+• 完美整合 - 整合 LangChain、LlamaIndex 等主流框架<br>
+📈 主要評估指標<br>
+• G-Eval - 基於研究的通用評估指標 <br>
+• RAG 指標 - 答案相關性、忠實度、上下文品質等 <br>
+• 安全指標 - 幻覺、偏見、毒性檢測 <br>
+• 對話指標 - 知識保持、對話完整性、角色遵循度 <br>
+• 代理指標 - 任務完成度、工具正確性 <br>
+DeepEval 提供強大的紅隊測試能力，能檢測超過 40 種安全漏洞，採用 10+ 種進階攻擊策略模擬真實場景。⚔️ <br>
+框架完美整合 CI/CD 環境，支援 MMLU、HellaSwag、TruthfulQA 等標準基準測試，讓模型比較變得簡單直觀。📋<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-a19fb30cff.jpg"><br>要如何有效評估你的AI系統呢？🤔 <br>
+由 Confident AI 開發的 DeepEval 借鑑 Pytest，讓開發者能夠像進行單元測試一樣，對 LLM 系統進行系統化評估。💡<br>
+🔧 核心評估能力<br>
+• 多層級評估 - 支援端到端評估 <br>
+• 豐富指標 - 提供現成評估指標  <br>
+• 非侵入式設計 - 透過 @ observe 裝飾器，無需修改現有程式碼<br>
+• 完美整合 - 整合 LangChain、LlamaIndex 等主流框架<br>
+📈 主要評估指標<br>
+• G-Eval - 基於研究的通用評估指標 <br>
+• RAG 指標 - 答案相關性、忠實度、上下文品質等 <br>
+• 安全指標 - 幻覺、偏見、毒性檢測 <br>
+• 對話指標 - 知識保持、對話完整性、角色遵循度 <br>
+• 代理指標 - 任務完成度、工具正確性 <br>
+DeepEval 提供強大的紅隊測試能力，能檢測超過 40 種安全漏洞，採用 10+ 種進階攻擊策略模擬真實場景。⚔️ <br>
+框架完美整合 CI/CD 環境，支援 MMLU、HellaSwag、TruthfulQA 等標準基準測試，讓模型比較變得簡單直觀。📋<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-a19fb30cff.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-a19fb30cff.jpg" medium="image"/>
+      <pubDate>Fri, 30 May 2025 14:55:59 +0000</pubDate>
+    </item><item>
+      <title><![CDATA[開源文字轉語音Chatterbox問世 表現勝ElevenLabs 顛覆付費模式？]]></title>
+      <link>https://www.facebook.com/1196130575859670/videos/662764836758944</link>
+      <itunes:title><![CDATA[開源文字轉語音Chatterbox問世 表現勝ElevenLabs 顛覆付費模式？]]></itunes:title>
+      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[以前是大廠進到一個領域會死一堆新創，現在則是開源逆襲新創？！🔥<br>
+Resemble AI 正式發布開源的文字轉語音模型 Chatterbox！ 🚀<br>
+在與 ElevenLabs 的比較測試中，Chatterbox 在評估中表現優異，甚至比ElevenLabs獲得更多使用者偏好！ 👍<br>
+🎭 全球首創情感誇張控制：<br>
+首個支援情感強度調節的開源 TTS 模型，讓語音更生動有力<br>
+🧠 先進技術架構：<br>
+- SoTA 零樣本 TTS 技術<br>
+- 0.5B 參數 Llama 骨幹網路<br>
+- 對齊感知推理，確保超高穩定性<br>
+📊 大規模訓練：<br>
+基於 50 萬小時清理後的語音數據進行訓練<br>
+🔐 負責任 AI 設計：<br>
+內建 Perth 感知閾值浮水印，抗壓縮且檢測準確率近 100%<br>
+當開源專案開始屌打付費商業服務時，遊戲規則已經改變了。💪<br>
+或許最好的技術，不再需要最貴的價格！🔥<br>
+<p><a href="https://www.facebook.com/1196130575859670/videos/662764836758944" target="_blank">[VIDEO] https://www.facebook.com/1196130575859670/videos/662764836758944</a></p><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[以前是大廠進到一個領域會死一堆新創，現在則是開源逆襲新創？！🔥<br>
+Resemble AI 正式發布開源的文字轉語音模型 Chatterbox！ 🚀<br>
+在與 ElevenLabs 的比較測試中，Chatterbox 在評估中表現優異，甚至比ElevenLabs獲得更多使用者偏好！ 👍<br>
+🎭 全球首創情感誇張控制：<br>
+首個支援情感強度調節的開源 TTS 模型，讓語音更生動有力<br>
+🧠 先進技術架構：<br>
+- SoTA 零樣本 TTS 技術<br>
+- 0.5B 參數 Llama 骨幹網路<br>
+- 對齊感知推理，確保超高穩定性<br>
+📊 大規模訓練：<br>
+基於 50 萬小時清理後的語音數據進行訓練<br>
+🔐 負責任 AI 設計：<br>
+內建 Perth 感知閾值浮水印，抗壓縮且檢測準確率近 100%<br>
+當開源專案開始屌打付費商業服務時，遊戲規則已經改變了。💪<br>
+或許最好的技術，不再需要最貴的價格！🔥<br>
+<p><a href="https://www.facebook.com/1196130575859670/videos/662764836758944" target="_blank">[VIDEO] https://www.facebook.com/1196130575859670/videos/662764836758944</a></p><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[以前是大廠進到一個領域會死一堆新創，現在則是開源逆襲新創？！🔥<br>
+Resemble AI 正式發布開源的文字轉語音模型 Chatterbox！ 🚀<br>
+在與 ElevenLabs 的比較測試中，Chatterbox 在評估中表現優異，甚至比ElevenLabs獲得更多使用者偏好！ 👍<br>
+🎭 全球首創情感誇張控制：<br>
+首個支援情感強度調節的開源 TTS 模型，讓語音更生動有力<br>
+🧠 先進技術架構：<br>
+- SoTA 零樣本 TTS 技術<br>
+- 0.5B 參數 Llama 骨幹網路<br>
+- 對齊感知推理，確保超高穩定性<br>
+📊 大規模訓練：<br>
+基於 50 萬小時清理後的語音數據進行訓練<br>
+🔐 負責任 AI 設計：<br>
+內建 Perth 感知閾值浮水印，抗壓縮且檢測準確率近 100%<br>
+當開源專案開始屌打付費商業服務時，遊戲規則已經改變了。💪<br>
+或許最好的技術，不再需要最貴的價格！🔥<br>
+<p><a href="https://www.facebook.com/1196130575859670/videos/662764836758944" target="_blank">[VIDEO] https://www.facebook.com/1196130575859670/videos/662764836758944</a></p><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="undefined"/>
+      <media:content url="undefined" medium="image"/>
+      <pubDate>Thu, 29 May 2025 13:29:57 +0000</pubDate>
+    </item><item>
+      <title><![CDATA[阿里AI長文推理新突破 QWENLONG-L1超越Google OpenAI]]></title>
+      <link>https://www.facebook.com/1196130575859670/posts/1199241265548601</link>
+      <itunes:title><![CDATA[阿里AI長文推理新突破 QWENLONG-L1超越Google OpenAI]]></itunes:title>
+      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-4cbe61d576.jpg"><br>看來只有阿里能持續產出優秀開源模型！🥹<br>
+現有AI推理模型在短文上表現優秀，但面對數萬字長文檔就力不從心。因為長文推理需要先從大量文本中找資訊，再進行推理，這與短文直接使用內建知識的方式完全不同。🤖 <br>
+⚠️ 阿里研究發現，用強化學習處理長文推理有兩大難題：學習效率差和訓練不穩定，因而推出首個專門解決長文推理的AI模型QWENLONG-L1，包含三大創新：<br>
+📈 分階段學習：讓AI從2萬字逐步適應到6萬字文檔，確保穩定學習。<br>
+⚙️ 群體優化算法：使用新的GRPO和DAPO算法，避免傳統方法的計算複雜問題。<br>
+⚖️ 雙重評分機制：結合規則檢查和AI判斷，更準確評估答案品質。<br>
+測試結果顯示，在七項長文測試中，QWENLONG-L1-14B超越Google和其他競品，32B版本更勝過OpenAI o3-mini，與Claude 3.7並駕齊驅。🏆 <br>
+研究發現，強化學習提升了5.1個百分點，而傳統方法僅提升0.8-3.2個百分點，證明強化學習的重要性。📊 <br>
+更驚人的是，AI在訓練中自然學會了四種人類思考方式：找資料、設目標、檢查錯誤、驗證答案。這些智慧行為直接關係到性能提升。🧠<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-4cbe61d576.jpg"><br>看來只有阿里能持續產出優秀開源模型！🥹<br>
+現有AI推理模型在短文上表現優秀，但面對數萬字長文檔就力不從心。因為長文推理需要先從大量文本中找資訊，再進行推理，這與短文直接使用內建知識的方式完全不同。🤖 <br>
+⚠️ 阿里研究發現，用強化學習處理長文推理有兩大難題：學習效率差和訓練不穩定，因而推出首個專門解決長文推理的AI模型QWENLONG-L1，包含三大創新：<br>
+📈 分階段學習：讓AI從2萬字逐步適應到6萬字文檔，確保穩定學習。<br>
+⚙️ 群體優化算法：使用新的GRPO和DAPO算法，避免傳統方法的計算複雜問題。<br>
+⚖️ 雙重評分機制：結合規則檢查和AI判斷，更準確評估答案品質。<br>
+測試結果顯示，在七項長文測試中，QWENLONG-L1-14B超越Google和其他競品，32B版本更勝過OpenAI o3-mini，與Claude 3.7並駕齊驅。🏆 <br>
+研究發現，強化學習提升了5.1個百分點，而傳統方法僅提升0.8-3.2個百分點，證明強化學習的重要性。📊 <br>
+更驚人的是，AI在訓練中自然學會了四種人類思考方式：找資料、設目標、檢查錯誤、驗證答案。這些智慧行為直接關係到性能提升。🧠<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-4cbe61d576.jpg"><br>看來只有阿里能持續產出優秀開源模型！🥹<br>
+現有AI推理模型在短文上表現優秀，但面對數萬字長文檔就力不從心。因為長文推理需要先從大量文本中找資訊，再進行推理，這與短文直接使用內建知識的方式完全不同。🤖 <br>
+⚠️ 阿里研究發現，用強化學習處理長文推理有兩大難題：學習效率差和訓練不穩定，因而推出首個專門解決長文推理的AI模型QWENLONG-L1，包含三大創新：<br>
+📈 分階段學習：讓AI從2萬字逐步適應到6萬字文檔，確保穩定學習。<br>
+⚙️ 群體優化算法：使用新的GRPO和DAPO算法，避免傳統方法的計算複雜問題。<br>
+⚖️ 雙重評分機制：結合規則檢查和AI判斷，更準確評估答案品質。<br>
+測試結果顯示，在七項長文測試中，QWENLONG-L1-14B超越Google和其他競品，32B版本更勝過OpenAI o3-mini，與Claude 3.7並駕齊驅。🏆 <br>
+研究發現，強化學習提升了5.1個百分點，而傳統方法僅提升0.8-3.2個百分點，證明強化學習的重要性。📊 <br>
+更驚人的是，AI在訓練中自然學會了四種人類思考方式：找資料、設目標、檢查錯誤、驗證答案。這些智慧行為直接關係到性能提升。🧠<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-4cbe61d576.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-4cbe61d576.jpg" medium="image"/>
+      <pubDate>Wed, 28 May 2025 12:42:51 +0000</pubDate>
+    </item><item>
+      <title><![CDATA[AlphaEvolve才出 Google開源版OpenEvolve快速登場複製成果]]></title>
+      <link>https://www.facebook.com/1196130575859670/posts/1198476112291783</link>
+      <itunes:title><![CDATA[AlphaEvolve才出 Google開源版OpenEvolve快速登場複製成果]]></itunes:title>
+      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-6d355c5c38.jpg"><br>沒想到開源版的 AlphaEvolve 這麼快就來了！😎 <br>
+Google 的 AlphaEvolve 才剛出爐，開源社群就迅速推出了 OpenEvolve。🚀<br>
+OpenEvolve 是一個演化式程式設計Agent，透過迭代過程來優化程式碼。🌐 <br>
+🗂️ 特色如下：<br>
+- 完整檔案演化：不僅優化單一函數，而是能夠演化整個程式。<br>
+- 多語言與多模型支援：支援多種程式語言，並可整合多種LLM。<br>
+- 多目標與分散式優化：同時優化多個目標，支援分散式評估以提升處理效能。<br>
+⚙️ 核心架構包含：<br>
+- 提示採樣器：建立程式碼、評分結果和問題描述作為上下文，充分提供背景知識。<br>
+- LLM 集合：透過多個LLM協作生成程式碼修改建議，結合不同模型產生多樣化的高品質解決方案。<br>
+- 評估池：測試生成的程式並分配分數，評估多種指標如執行時間、程式碼品質等。<br>
+- 程式資料庫：儲存程式及評估指標，記錄演化歷史，指導未來的演化過程。<br>
+更厲害的是，OpenEvolve 在多個挑戰性問題上成功複製了 AlphaEvolve 的結果！😎<br>
+看來開源界的 swag 就是：你不開源，我就開源你的閉源！ 🔓<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-6d355c5c38.jpg"><br>沒想到開源版的 AlphaEvolve 這麼快就來了！😎 <br>
+Google 的 AlphaEvolve 才剛出爐，開源社群就迅速推出了 OpenEvolve。🚀<br>
+OpenEvolve 是一個演化式程式設計Agent，透過迭代過程來優化程式碼。🌐 <br>
+🗂️ 特色如下：<br>
+- 完整檔案演化：不僅優化單一函數，而是能夠演化整個程式。<br>
+- 多語言與多模型支援：支援多種程式語言，並可整合多種LLM。<br>
+- 多目標與分散式優化：同時優化多個目標，支援分散式評估以提升處理效能。<br>
+⚙️ 核心架構包含：<br>
+- 提示採樣器：建立程式碼、評分結果和問題描述作為上下文，充分提供背景知識。<br>
+- LLM 集合：透過多個LLM協作生成程式碼修改建議，結合不同模型產生多樣化的高品質解決方案。<br>
+- 評估池：測試生成的程式並分配分數，評估多種指標如執行時間、程式碼品質等。<br>
+- 程式資料庫：儲存程式及評估指標，記錄演化歷史，指導未來的演化過程。<br>
+更厲害的是，OpenEvolve 在多個挑戰性問題上成功複製了 AlphaEvolve 的結果！😎<br>
+看來開源界的 swag 就是：你不開源，我就開源你的閉源！ 🔓<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-6d355c5c38.jpg"><br>沒想到開源版的 AlphaEvolve 這麼快就來了！😎 <br>
+Google 的 AlphaEvolve 才剛出爐，開源社群就迅速推出了 OpenEvolve。🚀<br>
+OpenEvolve 是一個演化式程式設計Agent，透過迭代過程來優化程式碼。🌐 <br>
+🗂️ 特色如下：<br>
+- 完整檔案演化：不僅優化單一函數，而是能夠演化整個程式。<br>
+- 多語言與多模型支援：支援多種程式語言，並可整合多種LLM。<br>
+- 多目標與分散式優化：同時優化多個目標，支援分散式評估以提升處理效能。<br>
+⚙️ 核心架構包含：<br>
+- 提示採樣器：建立程式碼、評分結果和問題描述作為上下文，充分提供背景知識。<br>
+- LLM 集合：透過多個LLM協作生成程式碼修改建議，結合不同模型產生多樣化的高品質解決方案。<br>
+- 評估池：測試生成的程式並分配分數，評估多種指標如執行時間、程式碼品質等。<br>
+- 程式資料庫：儲存程式及評估指標，記錄演化歷史，指導未來的演化過程。<br>
+更厲害的是，OpenEvolve 在多個挑戰性問題上成功複製了 AlphaEvolve 的結果！😎<br>
+看來開源界的 swag 就是：你不開源，我就開源你的閉源！ 🔓<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-6d355c5c38.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-6d355c5c38.jpg" medium="image"/>
+      <pubDate>Tue, 27 May 2025 13:24:14 +0000</pubDate>
+    </item></channel>
+</rss>
