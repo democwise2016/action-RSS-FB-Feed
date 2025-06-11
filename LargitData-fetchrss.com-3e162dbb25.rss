@@ -3,7 +3,7 @@
     <title><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></title>
     <link>http://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.xml</link>
     <image>
-      <url>https://fastly.picsum.photos/id/740/800/800.jpg?hmac=wn9qyHCa6cZpb1wC-R4MRPsBQ57T0EQUroypJbxqBkA</url>
+      <url>https://fastly.picsum.photos/id/1036/800/800.jpg?hmac=RvtiXYVTSHRE-r79J09ar0KAETiSl6xg40lbaB2yZYw</url>
       <title>LargitData - 大數軟體 on Facebook[FB+]</title>
       <link>http://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.xml</link>
     </image>
@@ -28,14 +28,44 @@
     <itunes:owner>
       <itunes:name><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/740/800/800.jpg?hmac=wn9qyHCa6cZpb1wC-R4MRPsBQ57T0EQUroypJbxqBkA"/>
+    <itunes:image href="https://fastly.picsum.photos/id/1036/800/800.jpg?hmac=RvtiXYVTSHRE-r79J09ar0KAETiSl6xg40lbaB2yZYw"/>
 <item>
+      <title><![CDATA[AI動態記憶新突破！Cognee知識圖譜與GraphRAG最佳化顯著提升效能]]></title>
+      <link>https://www.facebook.com/1196130575859670/posts/1209605581178836</link>
+      <itunes:title><![CDATA[AI動態記憶新突破！Cognee知識圖譜與GraphRAG最佳化顯著提升效能]]></itunes:title>
+      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-4728f800b8.jpg"><br>只需要5行程式碼，就能讓AI擁有動態記憶功能？🤔<br>
+傳統RAG面對多步驟推理時常表現不佳。比如「台灣哪個城市的市長曾經當過醫生？」這種問題需要先找出台灣各城市，再查各市長背景，最後找出醫生出身的市長，涉及多層關係推理。傳統RAG系統看完就忘了，無法建立知識間的連結。Cognee透過知識圖譜讓AI能夠累積、更新和連結知識，像人類一樣會「記住」之前學到的東西。💻 <br>
+Cognee採用「Extract-Cognify-Load」三段式架構將零散資訊轉換成結構化的知識圖譜，並載入到圖資料庫和向量資料庫中。這讓AI可以不斷累積和更新的動態記憶系統。🚀 <br>
+更重要的是，Cognee更是首次針對GraphRAG超參數最佳化進行系統性的研究，研究團隊針對六個關鍵參數進行系統性最佳化，使用「樹狀結構帕森估計器」演算法，根據前次調整結果來決定下次參數調整方向。🔬 <br>
+實驗結果令人驚豔。在HotPotQA、TwoWikiMultiHop、MuSiQue三個測試資料集上，最佳化後的系統效能大幅提升：正確性改善了62.8%到71.2%，某些指標甚至提升了近15倍。📊<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-4728f800b8.jpg"><br>只需要5行程式碼，就能讓AI擁有動態記憶功能？🤔<br>
+傳統RAG面對多步驟推理時常表現不佳。比如「台灣哪個城市的市長曾經當過醫生？」這種問題需要先找出台灣各城市，再查各市長背景，最後找出醫生出身的市長，涉及多層關係推理。傳統RAG系統看完就忘了，無法建立知識間的連結。Cognee透過知識圖譜讓AI能夠累積、更新和連結知識，像人類一樣會「記住」之前學到的東西。💻 <br>
+Cognee採用「Extract-Cognify-Load」三段式架構將零散資訊轉換成結構化的知識圖譜，並載入到圖資料庫和向量資料庫中。這讓AI可以不斷累積和更新的動態記憶系統。🚀 <br>
+更重要的是，Cognee更是首次針對GraphRAG超參數最佳化進行系統性的研究，研究團隊針對六個關鍵參數進行系統性最佳化，使用「樹狀結構帕森估計器」演算法，根據前次調整結果來決定下次參數調整方向。🔬 <br>
+實驗結果令人驚豔。在HotPotQA、TwoWikiMultiHop、MuSiQue三個測試資料集上，最佳化後的系統效能大幅提升：正確性改善了62.8%到71.2%，某些指標甚至提升了近15倍。📊<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-4728f800b8.jpg"><br>只需要5行程式碼，就能讓AI擁有動態記憶功能？🤔<br>
+傳統RAG面對多步驟推理時常表現不佳。比如「台灣哪個城市的市長曾經當過醫生？」這種問題需要先找出台灣各城市，再查各市長背景，最後找出醫生出身的市長，涉及多層關係推理。傳統RAG系統看完就忘了，無法建立知識間的連結。Cognee透過知識圖譜讓AI能夠累積、更新和連結知識，像人類一樣會「記住」之前學到的東西。💻 <br>
+Cognee採用「Extract-Cognify-Load」三段式架構將零散資訊轉換成結構化的知識圖譜，並載入到圖資料庫和向量資料庫中。這讓AI可以不斷累積和更新的動態記憶系統。🚀 <br>
+更重要的是，Cognee更是首次針對GraphRAG超參數最佳化進行系統性的研究，研究團隊針對六個關鍵參數進行系統性最佳化，使用「樹狀結構帕森估計器」演算法，根據前次調整結果來決定下次參數調整方向。🔬 <br>
+實驗結果令人驚豔。在HotPotQA、TwoWikiMultiHop、MuSiQue三個測試資料集上，最佳化後的系統效能大幅提升：正確性改善了62.8%到71.2%，某些指標甚至提升了近15倍。📊<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-4728f800b8.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-4728f800b8.jpg" medium="image"/>
+      <pubDate>Tue, 10 Jun 2025 13:22:23 +0000</pubDate>
+    </item><item>
       <title><![CDATA[Apple潑冷水：推理模型不思考？複雜問題、給定步驟都崩潰]]></title>
       <link>https://www.facebook.com/1196130575859670/posts/1208836537922407</link>
       <itunes:title><![CDATA[Apple潑冷水：推理模型不思考？複雜問題、給定步驟都崩潰]]></itunes:title>
       <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
       <itunes:summary>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-40e970c556.jpg"><br>推理模型真的會思考嗎？！🤔<br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-08d6ec990e.jpg"><br>推理模型真的會思考嗎？！🤔<br>
 推理模型在推理測驗中雖然表現亮眼。然而Apple的最新研究卻潑了冷水。💧<br>
 研究團隊設計了四種評測環境：漢諾塔、跳棋遊戲、渡河問題、積木世界，可精確控制複雜度並深入分析模型「思考過程」。🧠<br>
 三大驚人發現：<br>
@@ -48,7 +78,7 @@
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
       </itunes:summary>
       <description>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-40e970c556.jpg"><br>推理模型真的會思考嗎？！🤔<br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-08d6ec990e.jpg"><br>推理模型真的會思考嗎？！🤔<br>
 推理模型在推理測驗中雖然表現亮眼。然而Apple的最新研究卻潑了冷水。💧<br>
 研究團隊設計了四種評測環境：漢諾塔、跳棋遊戲、渡河問題、積木世界，可精確控制複雜度並深入分析模型「思考過程」。🧠<br>
 三大驚人發現：<br>
@@ -60,7 +90,7 @@
 這項研究迫使我們思考：什麼才是真正推理能力？如果系統無法在提供步驟時可靠解題，能稱為「推理」嗎❓<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
       </description>
-      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-40e970c556.jpg"><br>推理模型真的會思考嗎？！🤔<br>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-08d6ec990e.jpg"><br>推理模型真的會思考嗎？！🤔<br>
 推理模型在推理測驗中雖然表現亮眼。然而Apple的最新研究卻潑了冷水。💧<br>
 研究團隊設計了四種評測環境：漢諾塔、跳棋遊戲、渡河問題、積木世界，可精確控制複雜度並深入分析模型「思考過程」。🧠<br>
 三大驚人發現：<br>
@@ -71,8 +101,8 @@
 同一模型在不同問題上表現極不一致。Claude 3.7可正確執行漢諾塔100多步驟，卻在渡河問題第4步就出錯，顯示更依賴記憶而非真正推理。😵‍💫<br>
 這項研究迫使我們思考：什麼才是真正推理能力？如果系統無法在提供步驟時可靠解題，能稱為「推理」嗎❓<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
-      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-40e970c556.jpg"/>
-      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-40e970c556.jpg" medium="image"/>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-08d6ec990e.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-08d6ec990e.jpg" medium="image"/>
       <pubDate>Mon, 09 Jun 2025 13:11:01 +0000</pubDate>
     </item><item>
       <title><![CDATA[研究LLM架構有解！TorchVista助你視覺化PyTorch模型]]></title>
@@ -80,7 +110,7 @@
       <itunes:title><![CDATA[研究LLM架構有解！TorchVista助你視覺化PyTorch模型]]></itunes:title>
       <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
       <itunes:summary>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-5545be13f7.jpg"><br>想要深入研究LLM架構，但又不知道該如何下手？！🤔<br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-75ecc679aa.jpg"><br>想要深入研究LLM架構，但又不知道該如何下手？！🤔<br>
 這邊有個好工具！TorchVista 是專為 PyTorch 深度學習模型開發者設計的模型視覺化互動工具 ，能夠以互動式圖表的方式視覺化模型的前向傳播過程，而且只需要一行程式碼就能完成 。✨<br>
 🎯 互動式體驗：TorchVista 提供支援拖拽和縮放功能的互動式圖表，讓使用者能夠直觀地探索模型結構 。透過可摺疊的節點設計，即使是複雜的分層模組也能清晰呈現，使用者可以根據需要展開或收合不同層級的結構 。<br>
 🛠️ 強化除錯能力：當模型運行時遇到錯誤，TorchVista 具備錯誤容忍機制，能進行部分視覺化，幫助開發者快速定位問題所在 。此外，點擊圖表中的任一節點，就能查看該節點的詳細參數和屬性資訊 。<br>
@@ -88,21 +118,21 @@
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
       </itunes:summary>
       <description>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-5545be13f7.jpg"><br>想要深入研究LLM架構，但又不知道該如何下手？！🤔<br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-75ecc679aa.jpg"><br>想要深入研究LLM架構，但又不知道該如何下手？！🤔<br>
 這邊有個好工具！TorchVista 是專為 PyTorch 深度學習模型開發者設計的模型視覺化互動工具 ，能夠以互動式圖表的方式視覺化模型的前向傳播過程，而且只需要一行程式碼就能完成 。✨<br>
 🎯 互動式體驗：TorchVista 提供支援拖拽和縮放功能的互動式圖表，讓使用者能夠直觀地探索模型結構 。透過可摺疊的節點設計，即使是複雜的分層模組也能清晰呈現，使用者可以根據需要展開或收合不同層級的結構 。<br>
 🛠️ 強化除錯能力：當模型運行時遇到錯誤，TorchVista 具備錯誤容忍機制，能進行部分視覺化，幫助開發者快速定位問題所在 。此外，點擊圖表中的任一節點，就能查看該節點的詳細參數和屬性資訊 。<br>
 使用時，只要在程式碼中匯入 TorchVista，定義模型和輸入資料，然後呼叫 trace_model 即可生成視覺化圖表 。這個函數還提供多個參數選項，包括模組展開深度控制和是否顯示非梯度節點等，讓使用者能根據需求調整視覺化效果。🎉<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
       </description>
-      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-5545be13f7.jpg"><br>想要深入研究LLM架構，但又不知道該如何下手？！🤔<br>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-75ecc679aa.jpg"><br>想要深入研究LLM架構，但又不知道該如何下手？！🤔<br>
 這邊有個好工具！TorchVista 是專為 PyTorch 深度學習模型開發者設計的模型視覺化互動工具 ，能夠以互動式圖表的方式視覺化模型的前向傳播過程，而且只需要一行程式碼就能完成 。✨<br>
 🎯 互動式體驗：TorchVista 提供支援拖拽和縮放功能的互動式圖表，讓使用者能夠直觀地探索模型結構 。透過可摺疊的節點設計，即使是複雜的分層模組也能清晰呈現，使用者可以根據需要展開或收合不同層級的結構 。<br>
 🛠️ 強化除錯能力：當模型運行時遇到錯誤，TorchVista 具備錯誤容忍機制，能進行部分視覺化，幫助開發者快速定位問題所在 。此外，點擊圖表中的任一節點，就能查看該節點的詳細參數和屬性資訊 。<br>
 使用時，只要在程式碼中匯入 TorchVista，定義模型和輸入資料，然後呼叫 trace_model 即可生成視覺化圖表 。這個函數還提供多個參數選項，包括模組展開深度控制和是否顯示非梯度節點等，讓使用者能根據需求調整視覺化效果。🎉<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
-      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-5545be13f7.jpg"/>
-      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-5545be13f7.jpg" medium="image"/>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-75ecc679aa.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-75ecc679aa.jpg" medium="image"/>
       <pubDate>Sun, 08 Jun 2025 15:08:40 +0000</pubDate>
     </item><item>
       <title><![CDATA[AI交易新突破：TradingAgents模擬團隊 回測大勝傳統策略]]></title>
@@ -110,7 +140,7 @@
       <itunes:title><![CDATA[AI交易新突破：TradingAgents模擬團隊 回測大勝傳統策略]]></itunes:title>
       <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
       <itunes:summary>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-9b138a58c8.jpg"><br>開始該來用 AI 炒股了嗎？！ 🤯<br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-18855a3a14.jpg"><br>開始該來用 AI 炒股了嗎？！ 🤯<br>
 傳統演算法交易系統主要依賴量化模型，難以處理新聞等非結構化資料。現有LLM金融應用缺乏真實交易公司協作模式，且自然語言溝通易產生資訊失真。📞<br>
 🤖 研究團隊開發的TradingAgents模擬真實分工，包含七個Agent：<br>
 🔍 分析師團隊：負責資訊收集，包括基本面分析師、輿情分析師、新聞分析師、技術分析師。<br>
@@ -123,7 +153,7 @@
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
       </itunes:summary>
       <description>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-9b138a58c8.jpg"><br>開始該來用 AI 炒股了嗎？！ 🤯<br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-18855a3a14.jpg"><br>開始該來用 AI 炒股了嗎？！ 🤯<br>
 傳統演算法交易系統主要依賴量化模型，難以處理新聞等非結構化資料。現有LLM金融應用缺乏真實交易公司協作模式，且自然語言溝通易產生資訊失真。📞<br>
 🤖 研究團隊開發的TradingAgents模擬真實分工，包含七個Agent：<br>
 🔍 分析師團隊：負責資訊收集，包括基本面分析師、輿情分析師、新聞分析師、技術分析師。<br>
@@ -135,7 +165,7 @@
 研究團隊在2024年1-3月期間，針對Apple、Nvidia、Microsoft進行回測。結果顯示TradingAgents顯著超越傳統策略。Apple股票累積報酬率26.62%，比最佳基準高出24.57%；夏普比率8.21，最大回檔僅0.91%。在市場波動期間仍能脫穎而出。📈<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
       </description>
-      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-9b138a58c8.jpg"><br>開始該來用 AI 炒股了嗎？！ 🤯<br>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-18855a3a14.jpg"><br>開始該來用 AI 炒股了嗎？！ 🤯<br>
 傳統演算法交易系統主要依賴量化模型，難以處理新聞等非結構化資料。現有LLM金融應用缺乏真實交易公司協作模式，且自然語言溝通易產生資訊失真。📞<br>
 🤖 研究團隊開發的TradingAgents模擬真實分工，包含七個Agent：<br>
 🔍 分析師團隊：負責資訊收集，包括基本面分析師、輿情分析師、新聞分析師、技術分析師。<br>
@@ -146,8 +176,8 @@
 採用結構化文件為主要溝通方式，避免資訊失真；自然語言僅用於辯論環節。針對不同任務差異化配置模型：快速任務用GPT-4o-mini，複雜決策用o1-preview，平衡效率與成本。⚡<br>
 研究團隊在2024年1-3月期間，針對Apple、Nvidia、Microsoft進行回測。結果顯示TradingAgents顯著超越傳統策略。Apple股票累積報酬率26.62%，比最佳基準高出24.57%；夏普比率8.21，最大回檔僅0.91%。在市場波動期間仍能脫穎而出。📈<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
-      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-9b138a58c8.jpg"/>
-      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-9b138a58c8.jpg" medium="image"/>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-18855a3a14.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-18855a3a14.jpg" medium="image"/>
       <pubDate>Sat, 07 Jun 2025 13:47:22 +0000</pubDate>
     </item><item>
       <title><![CDATA[阿里推出Qwen3 Embedding/Rerank模型：支援32K、百語跨檢索，MTEB奪冠超越API！]]></title>
@@ -155,7 +185,7 @@
       <itunes:title><![CDATA[阿里推出Qwen3 Embedding/Rerank模型：支援32K、百語跨檢索，MTEB奪冠超越API！]]></itunes:title>
       <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
       <itunes:summary>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-85f9231546.jpg"><br>32K 的開源跨語言檢索 Embedding 模型來了？！😮 <br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-8945355555.jpg"><br>32K 的開源跨語言檢索 Embedding 模型來了？！😮 <br>
 阿里發表了Qwen3 Embedding系列模型，這次不僅提供了Embedding模型，更推出了Rerank排序模型，為文字檢索領域帶來完整的解決方案💡。<br>
 此次採用多階段訓練架構，首先透過超大規模弱監督資料進行對比學習，接著結合高品質標註資料的監督訓練，最後透過模型融合策略提升整體效能。有效平衡了模型的泛化能力與任務適配性。🔄<br>
 Qwen3 Embedding提供0.6B、4B和8B三種參數規模，所有模型都支援32K序列長度的長文本處理，並具備向量維度自訂功能，讓開發者能根據實際需求調整資源使用，在效能與成本間找到最佳平衡點。而最令人驚艷的能力，涵蓋超過100種語言，並且具備跨語言檢索能力，使用者可以用母語進行查詢，卻能檢索到其他語言的相關內容。⚙️<br>
@@ -164,7 +194,7 @@ Qwen3 Embedding提供0.6B、4B和8B三種參數規模，所有模型都支援32K
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
       </itunes:summary>
       <description>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-85f9231546.jpg"><br>32K 的開源跨語言檢索 Embedding 模型來了？！😮 <br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-8945355555.jpg"><br>32K 的開源跨語言檢索 Embedding 模型來了？！😮 <br>
 阿里發表了Qwen3 Embedding系列模型，這次不僅提供了Embedding模型，更推出了Rerank排序模型，為文字檢索領域帶來完整的解決方案💡。<br>
 此次採用多階段訓練架構，首先透過超大規模弱監督資料進行對比學習，接著結合高品質標註資料的監督訓練，最後透過模型融合策略提升整體效能。有效平衡了模型的泛化能力與任務適配性。🔄<br>
 Qwen3 Embedding提供0.6B、4B和8B三種參數規模，所有模型都支援32K序列長度的長文本處理，並具備向量維度自訂功能，讓開發者能根據實際需求調整資源使用，在效能與成本間找到最佳平衡點。而最令人驚艷的能力，涵蓋超過100種語言，並且具備跨語言檢索能力，使用者可以用母語進行查詢，卻能檢索到其他語言的相關內容。⚙️<br>
@@ -172,54 +202,15 @@ Qwen3 Embedding提供0.6B、4B和8B三種參數規模，所有模型都支援32K
 感覺0.6B 的模型很可以，快拿來用在RAG 專案上吧！🚀<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
       </description>
-      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-85f9231546.jpg"><br>32K 的開源跨語言檢索 Embedding 模型來了？！😮 <br>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-8945355555.jpg"><br>32K 的開源跨語言檢索 Embedding 模型來了？！😮 <br>
 阿里發表了Qwen3 Embedding系列模型，這次不僅提供了Embedding模型，更推出了Rerank排序模型，為文字檢索領域帶來完整的解決方案💡。<br>
 此次採用多階段訓練架構，首先透過超大規模弱監督資料進行對比學習，接著結合高品質標註資料的監督訓練，最後透過模型融合策略提升整體效能。有效平衡了模型的泛化能力與任務適配性。🔄<br>
 Qwen3 Embedding提供0.6B、4B和8B三種參數規模，所有模型都支援32K序列長度的長文本處理，並具備向量維度自訂功能，讓開發者能根據實際需求調整資源使用，在效能與成本間找到最佳平衡點。而最令人驚艷的能力，涵蓋超過100種語言，並且具備跨語言檢索能力，使用者可以用母語進行查詢，卻能檢索到其他語言的相關內容。⚙️<br>
 此次發布的8B Embedding模型在MTEB多語言排行榜達到70.58分，榮登榜首，甚至超越眾多API服務。在Rerank方面，4B參數的排序在各項測試中一樣展現優異表現。✨<br>
 感覺0.6B 的模型很可以，快拿來用在RAG 專案上吧！🚀<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
-      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-85f9231546.jpg"/>
-      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-85f9231546.jpg" medium="image"/>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-8945355555.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-8945355555.jpg" medium="image"/>
       <pubDate>Fri, 06 Jun 2025 04:03:33 +0000</pubDate>
-    </item><item>
-      <title><![CDATA[AI操作介面革命：GUI-Actor讓AI「看」畫面，效能勝過大模型]]></title>
-      <link>https://www.facebook.com/1196130575859670/posts/1205669778239083</link>
-      <itunes:title><![CDATA[AI操作介面革命：GUI-Actor讓AI「看」畫面，效能勝過大模型]]></itunes:title>
-      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-bcaa71160c.jpg"><br>如何讓AI像人類一樣操作電腦介面？！🧐<br>
-❌ 以往AI操作電腦介面時，需要先算出精確座標，但會衍生以下問題：<br>
-1. AI很難把「畫面」和「座標」連結起來<br>
-2. 按鈕通常是一個區域不是單一座標<br>
-3. AI看圖片的方式和精確座標根本對不起來。<br>
-研究團隊因此開發了GUI-Actor：當你告訴AI「點那個藍色按鈕」，它會像人類一樣直接找到按鈕並點選，完全不用計算複雜的座標。研究團隊使用特殊的<actor>標記，讓AI直接「看向」👀 要操作的地方，一次就能找到多個可能的點選位置。💡<br>
-更聰明的是，GUI-Actor在訓練時不只認一個點，是把整個按鈕區域都當作正確答案。團隊還加入了「驗證器」來確保每次都選擇最合適的位置。這樣的設計讓AI學會點選正確位置，就像人類操作介面一樣靈活。🧠<br>
-實驗結果顯示，GUI-Actor-7B在專業介面測試中得到40.7-44.6分，打敗了UI-TARS-72B（38.1分）。而只有2B的版本竟然贏過許多7B的大模型。在效率方面，GUI-Actor一次計算就能完成任務，傳統方法卻需要20倍的運算量，而且只需要60%的訓練資料就能達到最佳效能。 🏆<br>
-<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span></actor>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-bcaa71160c.jpg"><br>如何讓AI像人類一樣操作電腦介面？！🧐<br>
-❌ 以往AI操作電腦介面時，需要先算出精確座標，但會衍生以下問題：<br>
-1. AI很難把「畫面」和「座標」連結起來<br>
-2. 按鈕通常是一個區域不是單一座標<br>
-3. AI看圖片的方式和精確座標根本對不起來。<br>
-研究團隊因此開發了GUI-Actor：當你告訴AI「點那個藍色按鈕」，它會像人類一樣直接找到按鈕並點選，完全不用計算複雜的座標。研究團隊使用特殊的<actor>標記，讓AI直接「看向」👀 要操作的地方，一次就能找到多個可能的點選位置。💡<br>
-更聰明的是，GUI-Actor在訓練時不只認一個點，是把整個按鈕區域都當作正確答案。團隊還加入了「驗證器」來確保每次都選擇最合適的位置。這樣的設計讓AI學會點選正確位置，就像人類操作介面一樣靈活。🧠<br>
-實驗結果顯示，GUI-Actor-7B在專業介面測試中得到40.7-44.6分，打敗了UI-TARS-72B（38.1分）。而只有2B的版本竟然贏過許多7B的大模型。在效率方面，GUI-Actor一次計算就能完成任務，傳統方法卻需要20倍的運算量，而且只需要60%的訓練資料就能達到最佳效能。 🏆<br>
-<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span></actor>]]>
-      </description>
-      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-bcaa71160c.jpg"><br>如何讓AI像人類一樣操作電腦介面？！🧐<br>
-❌ 以往AI操作電腦介面時，需要先算出精確座標，但會衍生以下問題：<br>
-1. AI很難把「畫面」和「座標」連結起來<br>
-2. 按鈕通常是一個區域不是單一座標<br>
-3. AI看圖片的方式和精確座標根本對不起來。<br>
-研究團隊因此開發了GUI-Actor：當你告訴AI「點那個藍色按鈕」，它會像人類一樣直接找到按鈕並點選，完全不用計算複雜的座標。研究團隊使用特殊的<actor>標記，讓AI直接「看向」👀 要操作的地方，一次就能找到多個可能的點選位置。💡<br>
-更聰明的是，GUI-Actor在訓練時不只認一個點，是把整個按鈕區域都當作正確答案。團隊還加入了「驗證器」來確保每次都選擇最合適的位置。這樣的設計讓AI學會點選正確位置，就像人類操作介面一樣靈活。🧠<br>
-實驗結果顯示，GUI-Actor-7B在專業介面測試中得到40.7-44.6分，打敗了UI-TARS-72B（38.1分）。而只有2B的版本竟然贏過許多7B的大模型。在效率方面，GUI-Actor一次計算就能完成任務，傳統方法卻需要20倍的運算量，而且只需要60%的訓練資料就能達到最佳效能。 🏆<br>
-<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span></actor>]]></content:encoded>
-      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-bcaa71160c.jpg"/>
-      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-bcaa71160c.jpg" medium="image"/>
-      <pubDate>Thu, 05 Jun 2025 13:06:53 +0000</pubDate>
     </item></channel>
 </rss>
