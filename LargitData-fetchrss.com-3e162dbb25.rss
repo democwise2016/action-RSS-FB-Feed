@@ -1,0 +1,249 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></title>
+    <link>http://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.xml</link>
+    <image>
+      <url>https://fastly.picsum.photos/id/487/800/800.jpg?hmac=Rn7epOo3wOTKHYeQE4f-DE0tuo7q0G-c1n4S0KnlK50</url>
+      <title>LargitData - 大數軟體 on Facebook[FB+]</title>
+      <link>http://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.xml</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.rss" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></copyright>
+    <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      大數軟體有限公司 (LargitData Inc) 是一家提供人工智慧(AI)、輿情大數據(Big Data)在雲平台(Cloud)的AI 與大數據分析公司，主要產品包含：RAGi 企業級AI 決策平台、AIMochi - 會議智慧助理與 InfomIner即時輿情分析分析平台。<br />
+<br />
+<a href="https://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.rss" target="_blank">https://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.rss</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      大數軟體有限公司 (LargitData Inc) 是一家提供人工智慧(AI)、輿情大數據(Big Data)在雲平台(Cloud)的AI 與大數據分析公司，主要產品包含：RAGi 企業級AI 決策平台、AIMochi - 會議智慧助理與 InfomIner即時輿情分析分析平台。<br />
+<br />
+<a href="https://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.rss" target="_blank">https://fetchrss.com/rss/66114cb4b1e7592f390cb5326831f36a626fe5d220015652.rss</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://fastly.picsum.photos/id/487/800/800.jpg?hmac=Rn7epOo3wOTKHYeQE4f-DE0tuo7q0G-c1n4S0KnlK50"/>
+<item>
+      <title><![CDATA[Anthropic多Agent系統：AI效率提升90.2%，研究時間縮短90%。]]></title>
+      <link>https://www.facebook.com/1196130575859670/posts/1213583970780997</link>
+      <itunes:title><![CDATA[Anthropic多Agent系統：AI效率提升90.2%，研究時間縮短90%。]]></itunes:title>
+      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-fd78f3b1af.webp"><br>多個AI臭皮匠勝過一個諸葛亮？！🤔 <br>
+單一Agent在處理開放式研究問題時常遇瓶頸，因為研究工作本質上是動態且需要邊做邊調整的。⚠️ <br>
+Anthropic因而發展Multi-Agent，運用平行運作的子Agent同時探索問題不同面向。系統之所以有效，主要是因為投入更多Token來解決問題，研究顯示Token使用量造成了80%的性能差異。🔄<br>
+系統採用「指揮官-工作者」模式：主Agent(Opus 4)分析問題制定策略，子Agent(Sonnet 4)平行探索，最後由CitationAgent處理引用。Multi-Agent表現比單一Agent高出90.2%。平行工具調用縮短90%研究時間，讓系統在幾分鐘內完成原本需數小時的工作。📊 <br>
+挑戰包括Agent協調和狀態管理。Agent可能會創建過多子Agent或無止境搜尋。研究團隊通過提示工程解決，包括教導委派策略、根據查詢複雜度調整努力程度。評估採用LLM作為評判者，評估事實準確性、引用準確性等標準。🛠️ <br>
+目前系統廣泛應用於開發軟體(10%)、優化專業內容(8%)、制定業務策略(8%)，展示AI在複雜問題解決的巨大潛力。🚀<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-fd78f3b1af.webp"><br>多個AI臭皮匠勝過一個諸葛亮？！🤔 <br>
+單一Agent在處理開放式研究問題時常遇瓶頸，因為研究工作本質上是動態且需要邊做邊調整的。⚠️ <br>
+Anthropic因而發展Multi-Agent，運用平行運作的子Agent同時探索問題不同面向。系統之所以有效，主要是因為投入更多Token來解決問題，研究顯示Token使用量造成了80%的性能差異。🔄<br>
+系統採用「指揮官-工作者」模式：主Agent(Opus 4)分析問題制定策略，子Agent(Sonnet 4)平行探索，最後由CitationAgent處理引用。Multi-Agent表現比單一Agent高出90.2%。平行工具調用縮短90%研究時間，讓系統在幾分鐘內完成原本需數小時的工作。📊 <br>
+挑戰包括Agent協調和狀態管理。Agent可能會創建過多子Agent或無止境搜尋。研究團隊通過提示工程解決，包括教導委派策略、根據查詢複雜度調整努力程度。評估採用LLM作為評判者，評估事實準確性、引用準確性等標準。🛠️ <br>
+目前系統廣泛應用於開發軟體(10%)、優化專業內容(8%)、制定業務策略(8%)，展示AI在複雜問題解決的巨大潛力。🚀<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-fd78f3b1af.webp"><br>多個AI臭皮匠勝過一個諸葛亮？！🤔 <br>
+單一Agent在處理開放式研究問題時常遇瓶頸，因為研究工作本質上是動態且需要邊做邊調整的。⚠️ <br>
+Anthropic因而發展Multi-Agent，運用平行運作的子Agent同時探索問題不同面向。系統之所以有效，主要是因為投入更多Token來解決問題，研究顯示Token使用量造成了80%的性能差異。🔄<br>
+系統採用「指揮官-工作者」模式：主Agent(Opus 4)分析問題制定策略，子Agent(Sonnet 4)平行探索，最後由CitationAgent處理引用。Multi-Agent表現比單一Agent高出90.2%。平行工具調用縮短90%研究時間，讓系統在幾分鐘內完成原本需數小時的工作。📊 <br>
+挑戰包括Agent協調和狀態管理。Agent可能會創建過多子Agent或無止境搜尋。研究團隊通過提示工程解決，包括教導委派策略、根據查詢複雜度調整努力程度。評估採用LLM作為評判者，評估事實準確性、引用準確性等標準。🛠️ <br>
+目前系統廣泛應用於開發軟體(10%)、優化專業內容(8%)、制定業務策略(8%)，展示AI在複雜問題解決的巨大潛力。🚀<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-fd78f3b1af.webp"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-fd78f3b1af.webp" medium="image"/>
+      <pubDate>Sun, 15 Jun 2025 15:03:44 +0000</pubDate>
+    </item><item>
+      <title><![CDATA[AI擺脫人類老師：靠內部一致性「自己教自己」達超人類準確度]]></title>
+      <link>https://www.facebook.com/1196130575859670/posts/1212785934194134</link>
+      <itunes:title><![CDATA[AI擺脫人類老師：靠內部一致性「自己教自己」達超人類準確度]]></itunes:title>
+      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-697d0c3b73.jpg"><br>AI學會「自己教自己」，不再需要人類老師給他答案？！🤔<br>
+以往AI訓練需要人類提供大量標準答案，但隨著AI越來越聰明，人類反而限制他的發展。🚧<br>
+研究發現，許多概念AI其實在預訓練時已經理解了，只是不知道如何表達出來。💡<br>
+⚙️ 研究團隊因而研發「內部一致性最大化」，讓AI能自己找答案：<br>
+1. 互相驗證能力：AI會檢查自己的判斷是否前後邏輯一致。<br>
+2. 邏輯約束檢查：研究人員設定了簡單的邏輯規則，避免AI偷懶（比如全部答「對」或全部答「錯」）。<br>
+3. 反覆優化搜索：使用類似「模擬退火」法，AI會不斷調整判斷，直到所有邏輯都說得通。<br>
+重要的是，人類只需要定義任務，但不再需要提供大量標準答案。🎯<br>
+實驗結果好到連研究人員都不敢相信，甚至懷疑是否意外用到了標準答案。😱<br>
+📊在數學驗證、事實查核、回答品質評估等測試中：<br>
+- 表現與使用標準答案訓練的AI相當<br>
+- 顯著超越使用眾包人類標註的AI<br>
+- 在作者性別識別等「超人類」任務中，準確率達80%，遠超人類的60%<br>
+甚至成功訓練出完全無人監督的Claude 3.5 Haiku！🎉<br>
+啥時連人類標注答案也顯得多餘了...🫣<br>
+另外，我們徵「真人」實習生中，請見留言<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-697d0c3b73.jpg"><br>AI學會「自己教自己」，不再需要人類老師給他答案？！🤔<br>
+以往AI訓練需要人類提供大量標準答案，但隨著AI越來越聰明，人類反而限制他的發展。🚧<br>
+研究發現，許多概念AI其實在預訓練時已經理解了，只是不知道如何表達出來。💡<br>
+⚙️ 研究團隊因而研發「內部一致性最大化」，讓AI能自己找答案：<br>
+1. 互相驗證能力：AI會檢查自己的判斷是否前後邏輯一致。<br>
+2. 邏輯約束檢查：研究人員設定了簡單的邏輯規則，避免AI偷懶（比如全部答「對」或全部答「錯」）。<br>
+3. 反覆優化搜索：使用類似「模擬退火」法，AI會不斷調整判斷，直到所有邏輯都說得通。<br>
+重要的是，人類只需要定義任務，但不再需要提供大量標準答案。🎯<br>
+實驗結果好到連研究人員都不敢相信，甚至懷疑是否意外用到了標準答案。😱<br>
+📊在數學驗證、事實查核、回答品質評估等測試中：<br>
+- 表現與使用標準答案訓練的AI相當<br>
+- 顯著超越使用眾包人類標註的AI<br>
+- 在作者性別識別等「超人類」任務中，準確率達80%，遠超人類的60%<br>
+甚至成功訓練出完全無人監督的Claude 3.5 Haiku！🎉<br>
+啥時連人類標注答案也顯得多餘了...🫣<br>
+另外，我們徵「真人」實習生中，請見留言<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-697d0c3b73.jpg"><br>AI學會「自己教自己」，不再需要人類老師給他答案？！🤔<br>
+以往AI訓練需要人類提供大量標準答案，但隨著AI越來越聰明，人類反而限制他的發展。🚧<br>
+研究發現，許多概念AI其實在預訓練時已經理解了，只是不知道如何表達出來。💡<br>
+⚙️ 研究團隊因而研發「內部一致性最大化」，讓AI能自己找答案：<br>
+1. 互相驗證能力：AI會檢查自己的判斷是否前後邏輯一致。<br>
+2. 邏輯約束檢查：研究人員設定了簡單的邏輯規則，避免AI偷懶（比如全部答「對」或全部答「錯」）。<br>
+3. 反覆優化搜索：使用類似「模擬退火」法，AI會不斷調整判斷，直到所有邏輯都說得通。<br>
+重要的是，人類只需要定義任務，但不再需要提供大量標準答案。🎯<br>
+實驗結果好到連研究人員都不敢相信，甚至懷疑是否意外用到了標準答案。😱<br>
+📊在數學驗證、事實查核、回答品質評估等測試中：<br>
+- 表現與使用標準答案訓練的AI相當<br>
+- 顯著超越使用眾包人類標註的AI<br>
+- 在作者性別識別等「超人類」任務中，準確率達80%，遠超人類的60%<br>
+甚至成功訓練出完全無人監督的Claude 3.5 Haiku！🎉<br>
+啥時連人類標注答案也顯得多餘了...🫣<br>
+另外，我們徵「真人」實習生中，請見留言<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-697d0c3b73.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-697d0c3b73.jpg" medium="image"/>
+      <pubDate>Sat, 14 Jun 2025 15:00:18 +0000</pubDate>
+    </item><item>
+      <title><![CDATA[SurveyForge突破LLM限制 大幅提升學術文獻生成品質與效率]]></title>
+      <link>https://www.facebook.com/1196130575859670/posts/1211958537610207</link>
+      <itunes:title><![CDATA[SurveyForge突破LLM限制 大幅提升學術文獻生成品質與效率]]></itunes:title>
+      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-c0d2e98cd3.jpg"><br>雖然LLM已被應用於生成survey，但生成的大綱結構和引用品質仍明顯不足！⚠️ <br>
+💡 研究團隊開發的SurveyForge採用兩階段設計解決此問題：<br>
+🏗️ 第一階段為啟發式大綱生成：分析人類撰寫survey的邏輯，建構包含60萬篇論文和2萬篇大綱的資料庫，透過跨資料庫知識融合技術生成符合學術規範的大綱。<br>
+🧠 第二階段為記憶驅動內容生成：運用三個模組，子查詢記憶模組確保語義一致、檢索記憶模組維持主題連貫性、時間感知重排引擎整合相關性與引用影響力，全面提升文獻品質。<br>
+團隊建構包含10個電腦科學主題與100篇人類撰寫survey的SurveyBench評估基準，並提出SAM評估指標，從參考文獻覆蓋、大綱結構邏輯與內容品質進行評估。📊 <br>
+結果優於現有AutoSurvey方法：參考文獻品質的輸入覆蓋率從0.12提升至0.22，引用覆蓋率從0.23躍升至0.40；大綱品質從82.18分提升至86.85分；內容品質平均分數從73.87分增至76.34分。<br>
+成本效益極佳，生成64k字survey僅需0.43美元、10分鐘即可完成！🎉 <br>
+BTW，公司徵AI網路爬蟲實習生中，詳情請見留言~<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-c0d2e98cd3.jpg"><br>雖然LLM已被應用於生成survey，但生成的大綱結構和引用品質仍明顯不足！⚠️ <br>
+💡 研究團隊開發的SurveyForge採用兩階段設計解決此問題：<br>
+🏗️ 第一階段為啟發式大綱生成：分析人類撰寫survey的邏輯，建構包含60萬篇論文和2萬篇大綱的資料庫，透過跨資料庫知識融合技術生成符合學術規範的大綱。<br>
+🧠 第二階段為記憶驅動內容生成：運用三個模組，子查詢記憶模組確保語義一致、檢索記憶模組維持主題連貫性、時間感知重排引擎整合相關性與引用影響力，全面提升文獻品質。<br>
+團隊建構包含10個電腦科學主題與100篇人類撰寫survey的SurveyBench評估基準，並提出SAM評估指標，從參考文獻覆蓋、大綱結構邏輯與內容品質進行評估。📊 <br>
+結果優於現有AutoSurvey方法：參考文獻品質的輸入覆蓋率從0.12提升至0.22，引用覆蓋率從0.23躍升至0.40；大綱品質從82.18分提升至86.85分；內容品質平均分數從73.87分增至76.34分。<br>
+成本效益極佳，生成64k字survey僅需0.43美元、10分鐘即可完成！🎉 <br>
+BTW，公司徵AI網路爬蟲實習生中，詳情請見留言~<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-c0d2e98cd3.jpg"><br>雖然LLM已被應用於生成survey，但生成的大綱結構和引用品質仍明顯不足！⚠️ <br>
+💡 研究團隊開發的SurveyForge採用兩階段設計解決此問題：<br>
+🏗️ 第一階段為啟發式大綱生成：分析人類撰寫survey的邏輯，建構包含60萬篇論文和2萬篇大綱的資料庫，透過跨資料庫知識融合技術生成符合學術規範的大綱。<br>
+🧠 第二階段為記憶驅動內容生成：運用三個模組，子查詢記憶模組確保語義一致、檢索記憶模組維持主題連貫性、時間感知重排引擎整合相關性與引用影響力，全面提升文獻品質。<br>
+團隊建構包含10個電腦科學主題與100篇人類撰寫survey的SurveyBench評估基準，並提出SAM評估指標，從參考文獻覆蓋、大綱結構邏輯與內容品質進行評估。📊 <br>
+結果優於現有AutoSurvey方法：參考文獻品質的輸入覆蓋率從0.12提升至0.22，引用覆蓋率從0.23躍升至0.40；大綱品質從82.18分提升至86.85分；內容品質平均分數從73.87分增至76.34分。<br>
+成本效益極佳，生成64k字survey僅需0.43美元、10分鐘即可完成！🎉 <br>
+BTW，公司徵AI網路爬蟲實習生中，詳情請見留言~<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-c0d2e98cd3.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-c0d2e98cd3.jpg" medium="image"/>
+      <pubDate>Fri, 13 Jun 2025 14:09:28 +0000</pubDate>
+    </item><item>
+      <title><![CDATA[教AI學會上網搜索！阿里MaskSearch框架讓小模型大進化]]></title>
+      <link>https://www.facebook.com/1196130575859670/posts/1211145457691515</link>
+      <itunes:title><![CDATA[教AI學會上網搜索！阿里MaskSearch框架讓小模型大進化]]></itunes:title>
+      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-8b94f59c85.jpg"><br>如果AI遇到不知道的問題時會主動上網搜索、分析資料，然後給出準確答案，這該有多棒？🤔<br>
+阿里的研究團隊開發了AI預訓練框架，MaskSearch，採用兩階段訓練法：先讓AI學會搜索技巧，再應用到實際任務。⚙️ <br>
+第一階段，系統透過給AI出「填空題」來訓練。他們從維基百科中挖掉重要資訊，AI不能靠猜測填空，必須去網路上搜索正確答案！🧩 <br>
+在此過程中，AI學會三個關鍵技能：拆解問題、設計有效的搜索關鍵字、組合搜索資訊得出答案。🎯 <br>
+🛠️ 研究設計兩套訓練方法：<br>
+監督式學習（SFT） - 讓三個AI互相配合：規劃師制定搜索計畫、改寫師優化關鍵字、觀察員檢查結果，用這些「標準流程」教導AI。<br>
+強化學習（RL） - 讓AI自己嘗試，做對給獎勵、做錯扣分，讓AI自主摸索出最佳策略。<br>
+完成搜索技能特訓後，AI在第二階段學習將搜索能力應用到具體任務上。🔄 <br>
+實驗結果相當驚人！經過MaskSearch訓練的1.5B模型，表現竟能與7B模型不相上下。更重要的是，這些AI連面對全新類型問題時也能發揮出色，在跨領域測試中，有些任務準確率提升超過15%！​​​​​​​​​​​​​​​​🚀<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-8b94f59c85.jpg"><br>如果AI遇到不知道的問題時會主動上網搜索、分析資料，然後給出準確答案，這該有多棒？🤔<br>
+阿里的研究團隊開發了AI預訓練框架，MaskSearch，採用兩階段訓練法：先讓AI學會搜索技巧，再應用到實際任務。⚙️ <br>
+第一階段，系統透過給AI出「填空題」來訓練。他們從維基百科中挖掉重要資訊，AI不能靠猜測填空，必須去網路上搜索正確答案！🧩 <br>
+在此過程中，AI學會三個關鍵技能：拆解問題、設計有效的搜索關鍵字、組合搜索資訊得出答案。🎯 <br>
+🛠️ 研究設計兩套訓練方法：<br>
+監督式學習（SFT） - 讓三個AI互相配合：規劃師制定搜索計畫、改寫師優化關鍵字、觀察員檢查結果，用這些「標準流程」教導AI。<br>
+強化學習（RL） - 讓AI自己嘗試，做對給獎勵、做錯扣分，讓AI自主摸索出最佳策略。<br>
+完成搜索技能特訓後，AI在第二階段學習將搜索能力應用到具體任務上。🔄 <br>
+實驗結果相當驚人！經過MaskSearch訓練的1.5B模型，表現竟能與7B模型不相上下。更重要的是，這些AI連面對全新類型問題時也能發揮出色，在跨領域測試中，有些任務準確率提升超過15%！​​​​​​​​​​​​​​​​🚀<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-8b94f59c85.jpg"><br>如果AI遇到不知道的問題時會主動上網搜索、分析資料，然後給出準確答案，這該有多棒？🤔<br>
+阿里的研究團隊開發了AI預訓練框架，MaskSearch，採用兩階段訓練法：先讓AI學會搜索技巧，再應用到實際任務。⚙️ <br>
+第一階段，系統透過給AI出「填空題」來訓練。他們從維基百科中挖掉重要資訊，AI不能靠猜測填空，必須去網路上搜索正確答案！🧩 <br>
+在此過程中，AI學會三個關鍵技能：拆解問題、設計有效的搜索關鍵字、組合搜索資訊得出答案。🎯 <br>
+🛠️ 研究設計兩套訓練方法：<br>
+監督式學習（SFT） - 讓三個AI互相配合：規劃師制定搜索計畫、改寫師優化關鍵字、觀察員檢查結果，用這些「標準流程」教導AI。<br>
+強化學習（RL） - 讓AI自己嘗試，做對給獎勵、做錯扣分，讓AI自主摸索出最佳策略。<br>
+完成搜索技能特訓後，AI在第二階段學習將搜索能力應用到具體任務上。🔄 <br>
+實驗結果相當驚人！經過MaskSearch訓練的1.5B模型，表現竟能與7B模型不相上下。更重要的是，這些AI連面對全新類型問題時也能發揮出色，在跨領域測試中，有些任務準確率提升超過15%！​​​​​​​​​​​​​​​​🚀<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-8b94f59c85.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-8b94f59c85.jpg" medium="image"/>
+      <pubDate>Thu, 12 Jun 2025 13:19:01 +0000</pubDate>
+    </item><item>
+      <title><![CDATA[Browser-Use Vibetest自動測試登場 AI搶食QA飯碗？]]></title>
+      <link>https://www.facebook.com/1196130575859670/videos/570244569203136</link>
+      <itunes:title><![CDATA[Browser-Use Vibetest自動測試登場 AI搶食QA飯碗？]]></itunes:title>
+      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[現在連 testing 都要 Vibetest 🚀<br>
+隨著網站開發越來越複雜，手動測試網站功能已經變得既耗時又容易出錯。💡<br>
+Browser-Use 團隊開發出了Vibetest Use，是一個MCP工具，它整合了多個 Browser-Use Agent，能夠像真實使用者一樣瀏覽和測試網站。🔧<br>
+核心特色：<br>
+🤖 多代理平行測試 Vibetest Use 能夠同時啟動多個Agent進行網站測試，每個代理都能獨立平行運作，在不同瀏覽器中同時執行檢測任務，不僅大幅縮短測試時間，發現更多潛在問題。<br>
+🔍 全方位問題檢測 系統提供完整的網站問題檢測功能，包括UI錯誤檢測、失效連結和404錯誤掃描、無障礙標準驗證，以及JavaScript錯誤和頁面載入問題的技術檢測。<br>
+🛠️ 彈性部署選項 工具支援多種測試環境，從線上正式網站到本地開發環境都能無縫運作。系統還提供Headless運行模式，開發者可根據需求選擇是否需要視覺化介面。<br>
+天呀，這是否代表AI 連 QA 的飯碗也要搶？！😱<br>
+<p><a href="https://www.facebook.com/1196130575859670/videos/570244569203136" target="_blank">[VIDEO] https://www.facebook.com/1196130575859670/videos/570244569203136</a></p><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[現在連 testing 都要 Vibetest 🚀<br>
+隨著網站開發越來越複雜，手動測試網站功能已經變得既耗時又容易出錯。💡<br>
+Browser-Use 團隊開發出了Vibetest Use，是一個MCP工具，它整合了多個 Browser-Use Agent，能夠像真實使用者一樣瀏覽和測試網站。🔧<br>
+核心特色：<br>
+🤖 多代理平行測試 Vibetest Use 能夠同時啟動多個Agent進行網站測試，每個代理都能獨立平行運作，在不同瀏覽器中同時執行檢測任務，不僅大幅縮短測試時間，發現更多潛在問題。<br>
+🔍 全方位問題檢測 系統提供完整的網站問題檢測功能，包括UI錯誤檢測、失效連結和404錯誤掃描、無障礙標準驗證，以及JavaScript錯誤和頁面載入問題的技術檢測。<br>
+🛠️ 彈性部署選項 工具支援多種測試環境，從線上正式網站到本地開發環境都能無縫運作。系統還提供Headless運行模式，開發者可根據需求選擇是否需要視覺化介面。<br>
+天呀，這是否代表AI 連 QA 的飯碗也要搶？！😱<br>
+<p><a href="https://www.facebook.com/1196130575859670/videos/570244569203136" target="_blank">[VIDEO] https://www.facebook.com/1196130575859670/videos/570244569203136</a></p><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[現在連 testing 都要 Vibetest 🚀<br>
+隨著網站開發越來越複雜，手動測試網站功能已經變得既耗時又容易出錯。💡<br>
+Browser-Use 團隊開發出了Vibetest Use，是一個MCP工具，它整合了多個 Browser-Use Agent，能夠像真實使用者一樣瀏覽和測試網站。🔧<br>
+核心特色：<br>
+🤖 多代理平行測試 Vibetest Use 能夠同時啟動多個Agent進行網站測試，每個代理都能獨立平行運作，在不同瀏覽器中同時執行檢測任務，不僅大幅縮短測試時間，發現更多潛在問題。<br>
+🔍 全方位問題檢測 系統提供完整的網站問題檢測功能，包括UI錯誤檢測、失效連結和404錯誤掃描、無障礙標準驗證，以及JavaScript錯誤和頁面載入問題的技術檢測。<br>
+🛠️ 彈性部署選項 工具支援多種測試環境，從線上正式網站到本地開發環境都能無縫運作。系統還提供Headless運行模式，開發者可根據需求選擇是否需要視覺化介面。<br>
+天呀，這是否代表AI 連 QA 的飯碗也要搶？！😱<br>
+<p><a href="https://www.facebook.com/1196130575859670/videos/570244569203136" target="_blank">[VIDEO] https://www.facebook.com/1196130575859670/videos/570244569203136</a></p><br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="undefined"/>
+      <media:content url="undefined" medium="image"/>
+      <pubDate>Wed, 11 Jun 2025 13:16:56 +0000</pubDate>
+    </item></channel>
+</rss>
