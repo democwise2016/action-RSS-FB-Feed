@@ -4,13 +4,12 @@
   "description": "action-UT-Podcast",
   "main": "index.js",
   "scripts": {
-    "start": "docker-compose down; docker-compose up",
-    "up": "docker-compose up",
-    "down": "docker-compose down",
-    "build-up": "docker-compose up --build",
-    "bash": "docker-compose run app bash",
-    "lang": "docker-compose run app python3 /app/python/lang.py FFWryY3_Pc0",
-    "build": "docker-compose build"
+    "start": "./docker-scripts/down.sh && ./docker-scripts/up.sh",
+    "up": "./docker-scripts/up.sh",
+    "down": "./docker-scripts/down.sh",
+    "up-build": "./docker-scripts/up-build.sh",
+    "bash": "./docker-scripts/bash.sh",
+    "build": "./docker-scripts/build.sh"
   },
   "repository": {
     "type": "git",

@@ -213,12 +213,17 @@ let feedList = [
 if (CONFIG.debug) {
   feedList = [
     {
-      title: '原價屋coolpc on Facebook',
-      feedID: 'coolpc-fb',
-      feedURL: 'http://fetchrss.com/rss/5f999158644572630d2ebfc3622425f7b21ecd56f6380533.xml',
+      title: '遊戲角落 on Facebook',
+      feedID: 'udngame',
+      feedURL: 'http://fetchrss.com/rss/5f999158644572630d2ebfc3622425c2097d927598544362.xml',
       itemFilters: [
+        // ItemFilters['sites'].ItemFilterFBCheapAOE,
         ItemFilters['fb'].ItemFilterFB,
       ],
+      options: {
+        referer: 'https://game.udn.com/',
+        selector: 'section.article-content__editor'
+      }
     },
   ]
 }

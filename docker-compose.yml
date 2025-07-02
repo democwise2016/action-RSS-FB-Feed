@@ -1,10 +1,11 @@
 # docker-Specify the compose version
-version: "3"
+# version: "3"
 
 services:
   app:
     # build: .
-    image: pudding/docker-image-base:action-RSS-FB-Feed-Docker-Image-20250527.211426
+    image: pudding/docker-image-base:action-RSS-FB-Feed-Docker-Image-20250702.111917
+    user: "${UID}:${GID}"
     tty: true
     volumes: 
       - ./output:/output/
