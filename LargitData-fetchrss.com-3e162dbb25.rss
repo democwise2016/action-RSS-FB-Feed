@@ -3,7 +3,7 @@
     <title><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></title>
     <link>https://fetchrss.com/feed/ZhFMtLEvObUyaDHzamLSIFZS.rss</link>
     <image>
-      <url>https://fastly.picsum.photos/id/353/800/800.jpg?hmac=RaDuQ92sSXj4q5vOYna9G00J7KrBUC3eBS0slCWYZXA</url>
+      <url>https://fastly.picsum.photos/id/94/800/800.jpg?hmac=8IWXXpQ8NEeXymO3-SMumNDmeMlzvJTaPFK1ITkm8Fk</url>
       <title>LargitData - 大數軟體 on Facebook[FB+]</title>
       <link>https://fetchrss.com/feed/ZhFMtLEvObUyaDHzamLSIFZS.rss</link>
     </image>
@@ -28,14 +28,53 @@
     <itunes:owner>
       <itunes:name><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/353/800/800.jpg?hmac=RaDuQ92sSXj4q5vOYna9G00J7KrBUC3eBS0slCWYZXA"/>
+    <itunes:image href="https://fastly.picsum.photos/id/94/800/800.jpg?hmac=8IWXXpQ8NEeXymO3-SMumNDmeMlzvJTaPFK1ITkm8Fk"/>
 <item>
+      <title><![CDATA[NVIDIA揭示：小模型才是智能代理未來！高效實惠勝大模型]]></title>
+      <link>https://www.facebook.com/1196130575859670/posts/1227769972695730</link>
+      <itunes:title><![CDATA[NVIDIA揭示：小模型才是智能代理未來！高效實惠勝大模型]]></itunes:title>
+      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-e1ce9cb057.jpg"><br>模型越大越好嗎？NVIDIA發現小模型才是智能代理的未來！🤔<br>
+🔥 小模型有三大核心優勢：<br>
+🎯 能力夠強：Phi-2（2.7B）在常識推理和程式碼生成相當於30B模型，速度卻快15倍；NVIDIA Nemotron-H 能以1/10的推理FLOPs達到30B模型的程度。<br>
+💰 用於Agent剛剛好：Agent多執行重複性、範圍明確的任務務，需要嚴格的格式對齊和可預測的輸出，小模型經過專門微調後能滿足這些需求。<br>
+📊 CP值高：7B 比 70B便宜10-30倍，微調只需數小時而非數週，而且方便在地端部署。<br>
+研究團隊深入分析三個熱門開源Agent的場景，發現MetaGPT軟體開發Agent有60%查詢可用小模型替換，Open Operator工作流程自動化Agent為40%，Cradle GUI控制Agent更高達70%。數據顯示，即使在複雜應用場景中，小模型也能承擔相當比例的工作負載。✅ <br>
+未來將出現混合Agent系統，採用「樂高積木式」組合設計：小模型負責日常重複性任務，大模型僅在需要複雜推理時介入，這既保留大模型強大能力，又發揮小模型效率優勢。🔮<br>
+BTW，徵實習生中！👇<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-e1ce9cb057.jpg"><br>模型越大越好嗎？NVIDIA發現小模型才是智能代理的未來！🤔<br>
+🔥 小模型有三大核心優勢：<br>
+🎯 能力夠強：Phi-2（2.7B）在常識推理和程式碼生成相當於30B模型，速度卻快15倍；NVIDIA Nemotron-H 能以1/10的推理FLOPs達到30B模型的程度。<br>
+💰 用於Agent剛剛好：Agent多執行重複性、範圍明確的任務務，需要嚴格的格式對齊和可預測的輸出，小模型經過專門微調後能滿足這些需求。<br>
+📊 CP值高：7B 比 70B便宜10-30倍，微調只需數小時而非數週，而且方便在地端部署。<br>
+研究團隊深入分析三個熱門開源Agent的場景，發現MetaGPT軟體開發Agent有60%查詢可用小模型替換，Open Operator工作流程自動化Agent為40%，Cradle GUI控制Agent更高達70%。數據顯示，即使在複雜應用場景中，小模型也能承擔相當比例的工作負載。✅ <br>
+未來將出現混合Agent系統，採用「樂高積木式」組合設計：小模型負責日常重複性任務，大模型僅在需要複雜推理時介入，這既保留大模型強大能力，又發揮小模型效率優勢。🔮<br>
+BTW，徵實習生中！👇<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
+      </description>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-e1ce9cb057.jpg"><br>模型越大越好嗎？NVIDIA發現小模型才是智能代理的未來！🤔<br>
+🔥 小模型有三大核心優勢：<br>
+🎯 能力夠強：Phi-2（2.7B）在常識推理和程式碼生成相當於30B模型，速度卻快15倍；NVIDIA Nemotron-H 能以1/10的推理FLOPs達到30B模型的程度。<br>
+💰 用於Agent剛剛好：Agent多執行重複性、範圍明確的任務務，需要嚴格的格式對齊和可預測的輸出，小模型經過專門微調後能滿足這些需求。<br>
+📊 CP值高：7B 比 70B便宜10-30倍，微調只需數小時而非數週，而且方便在地端部署。<br>
+研究團隊深入分析三個熱門開源Agent的場景，發現MetaGPT軟體開發Agent有60%查詢可用小模型替換，Open Operator工作流程自動化Agent為40%，Cradle GUI控制Agent更高達70%。數據顯示，即使在複雜應用場景中，小模型也能承擔相當比例的工作負載。✅ <br>
+未來將出現混合Agent系統，採用「樂高積木式」組合設計：小模型負責日常重複性任務，大模型僅在需要複雜推理時介入，這既保留大模型強大能力，又發揮小模型效率優勢。🔮<br>
+BTW，徵實習生中！👇<br>
+<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-e1ce9cb057.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-e1ce9cb057.jpg" medium="image"/>
+      <pubDate>Wed, 02 Jul 2025 14:20:09 +0000</pubDate>
+    </item><item>
       <title><![CDATA[實現AI集體智慧！Sakana AI Multi-LLM AB-MCTS突破解題成功率]]></title>
       <link>https://www.facebook.com/1196130575859670/posts/1226890612783666</link>
       <itunes:title><![CDATA[實現AI集體智慧！Sakana AI Multi-LLM AB-MCTS突破解題成功率]]></itunes:title>
       <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
       <itunes:summary>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-6cf6f2fae6.jpg"><br>三個臭皮匠，勝過一個諸葛亮？🤔<br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-2549a3a0cd.jpg"><br>三個臭皮匠，勝過一個諸葛亮？🤔<br>
 Sakana AI 發表了 AB-MCTS（自適應分支蒙地卡羅樹搜索），讓多個先進 AI 模型能夠協作解決問題。🤝 <br>
 AB-MCTS 結合深度與廣度搜索，能夠在發現有潛力的解答時持續改進，同時也會嘗試想出完全不同的解法，透過機率模型動態決定搜索方向。🔍<br>
 團隊更進一步開發了 Multi-LLM AB-MCTS，系統不僅決定搜索方向，還要選擇最適合的 AI 模型來處理特定問題。系統會根據每個模型在搜索過程中的表現，動態調整模型選擇機率，讓表現優異的模型更容易被選中，但仍保持適度探索性。🚀<br>
@@ -44,7 +83,7 @@ AB-MCTS 結合深度與廣度搜索，能夠在發現有潛力的解答時持續
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
       </itunes:summary>
       <description>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-6cf6f2fae6.jpg"><br>三個臭皮匠，勝過一個諸葛亮？🤔<br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-2549a3a0cd.jpg"><br>三個臭皮匠，勝過一個諸葛亮？🤔<br>
 Sakana AI 發表了 AB-MCTS（自適應分支蒙地卡羅樹搜索），讓多個先進 AI 模型能夠協作解決問題。🤝 <br>
 AB-MCTS 結合深度與廣度搜索，能夠在發現有潛力的解答時持續改進，同時也會嘗試想出完全不同的解法，透過機率模型動態決定搜索方向。🔍<br>
 團隊更進一步開發了 Multi-LLM AB-MCTS，系統不僅決定搜索方向，還要選擇最適合的 AI 模型來處理特定問題。系統會根據每個模型在搜索過程中的表現，動態調整模型選擇機率，讓表現優異的模型更容易被選中，但仍保持適度探索性。🚀<br>
@@ -52,15 +91,15 @@ AB-MCTS 結合深度與廣度搜索，能夠在發現有潛力的解答時持續
 令人驚豔的是，研究發現在一些問題中 o4-mini 產生的初始解答雖然錯誤，但 DeepSeek-R1 和 Gemini-2.5-Pro 能夠以此為線索，在下一步找到正確答案。這展現了真正的集體智慧，超越了將最佳模型分配給每個問題的做法。✨<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
       </description>
-      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-6cf6f2fae6.jpg"><br>三個臭皮匠，勝過一個諸葛亮？🤔<br>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-2549a3a0cd.jpg"><br>三個臭皮匠，勝過一個諸葛亮？🤔<br>
 Sakana AI 發表了 AB-MCTS（自適應分支蒙地卡羅樹搜索），讓多個先進 AI 模型能夠協作解決問題。🤝 <br>
 AB-MCTS 結合深度與廣度搜索，能夠在發現有潛力的解答時持續改進，同時也會嘗試想出完全不同的解法，透過機率模型動態決定搜索方向。🔍<br>
 團隊更進一步開發了 Multi-LLM AB-MCTS，系統不僅決定搜索方向，還要選擇最適合的 AI 模型來處理特定問題。系統會根據每個模型在搜索過程中的表現，動態調整模型選擇機率，讓表現優異的模型更容易被選中，但仍保持適度探索性。🚀<br>
 研究團隊選用能評估推理能力的 ARC-AGI-2 基準進行實驗，結果顯示傳統重複採樣方法成功率為 23%，單一模型 AB-MCTS 提升至 27.5%，而 Multi-LLM AB-MCTS 更達到超過 30% 的成功率。📊<br>
 令人驚豔的是，研究發現在一些問題中 o4-mini 產生的初始解答雖然錯誤，但 DeepSeek-R1 和 Gemini-2.5-Pro 能夠以此為線索，在下一步找到正確答案。這展現了真正的集體智慧，超越了將最佳模型分配給每個問題的做法。✨<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
-      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-6cf6f2fae6.jpg"/>
-      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-6cf6f2fae6.jpg" medium="image"/>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-2549a3a0cd.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-2549a3a0cd.jpg" medium="image"/>
       <pubDate>Tue, 01 Jul 2025 13:54:15 +0000</pubDate>
     </item><item>
       <title><![CDATA[Walmart ARAG：AI助手協作革新推薦系統，實測準確度提升逾40%]]></title>
@@ -68,7 +107,7 @@ AB-MCTS 結合深度與廣度搜索，能夠在發現有潛力的解答時持續
       <itunes:title><![CDATA[Walmart ARAG：AI助手協作革新推薦系統，實測準確度提升逾40%]]></itunes:title>
       <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
       <itunes:summary>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-59d7f31686.jpg"><br>生成式 AI 顛覆過往的推薦系統演算法？！🧐<br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-d041a06e50.jpg"><br>生成式 AI 顛覆過往的推薦系統演算法？！🧐<br>
 現在的推薦系統大多依賴簡單的相似度計算——如果你買過運動鞋，系統就推薦更多運動鞋。但真實情況更複雜，使用者需求會變化，現有技術無法理解背後的真正需求。為了解決這個問題，Walmart研究團隊開發了ARAG系統。🤔 <br>
 🤖 ARAG透過四個專門的AI助手協同工作。<br>
 1. 使用者分析師，負責分析你的購物歷史，了解你的偏好類型。<br>
@@ -81,7 +120,7 @@ ARAG的另一個重要優勢是可解釋性。系統不只推薦商品，還會�
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
       </itunes:summary>
       <description>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-59d7f31686.jpg"><br>生成式 AI 顛覆過往的推薦系統演算法？！🧐<br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-d041a06e50.jpg"><br>生成式 AI 顛覆過往的推薦系統演算法？！🧐<br>
 現在的推薦系統大多依賴簡單的相似度計算——如果你買過運動鞋，系統就推薦更多運動鞋。但真實情況更複雜，使用者需求會變化，現有技術無法理解背後的真正需求。為了解決這個問題，Walmart研究團隊開發了ARAG系統。🤔 <br>
 🤖 ARAG透過四個專門的AI助手協同工作。<br>
 1. 使用者分析師，負責分析你的購物歷史，了解你的偏好類型。<br>
@@ -93,7 +132,7 @@ ARAG的另一個重要優勢是可解釋性。系統不只推薦商品，還會�
 ARAG的另一個重要優勢是可解釋性。系統不只推薦商品，還會說明推薦理由，讓使用者更容易理解和信任推薦結果，進而提升整體購物體驗。💬<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
       </description>
-      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-59d7f31686.jpg"><br>生成式 AI 顛覆過往的推薦系統演算法？！🧐<br>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-d041a06e50.jpg"><br>生成式 AI 顛覆過往的推薦系統演算法？！🧐<br>
 現在的推薦系統大多依賴簡單的相似度計算——如果你買過運動鞋，系統就推薦更多運動鞋。但真實情況更複雜，使用者需求會變化，現有技術無法理解背後的真正需求。為了解決這個問題，Walmart研究團隊開發了ARAG系統。🤔 <br>
 🤖 ARAG透過四個專門的AI助手協同工作。<br>
 1. 使用者分析師，負責分析你的購物歷史，了解你的偏好類型。<br>
@@ -104,8 +143,8 @@ ARAG的另一個重要優勢是可解釋性。系統不只推薦商品，還會�
 以Amazon資料實測：在服飾類別中，推薦準確度比傳統方法提升超過40%，而在3C產品、居家用品等各個領域都有顯著改善，證明這套方法具有廣泛適用性。📈 <br>
 ARAG的另一個重要優勢是可解釋性。系統不只推薦商品，還會說明推薦理由，讓使用者更容易理解和信任推薦結果，進而提升整體購物體驗。💬<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
-      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-59d7f31686.jpg"/>
-      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-59d7f31686.jpg" medium="image"/>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-d041a06e50.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-d041a06e50.jpg" medium="image"/>
       <pubDate>Mon, 30 Jun 2025 14:59:24 +0000</pubDate>
     </item><item>
       <title><![CDATA[AI破解爬蟲驗證！實戰教你輕鬆繞過「我不是機器人」]]></title>
@@ -113,7 +152,7 @@ ARAG的另一個重要優勢是可解釋性。系統不只推薦商品，還會�
       <itunes:title><![CDATA[AI破解爬蟲驗證！實戰教你輕鬆繞過「我不是機器人」]]></itunes:title>
       <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
       <itunes:summary>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-43751913a9.jpg"><br>最近「爬蟲」這個話題又突然紅了起來，不過身為全台最老牌、最大型的爬蟲教學頻道，我們今天不八卦，也不討論新聞，來點實用的爬蟲教學吧！<br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-338dffa468.jpg"><br>最近「爬蟲」這個話題又突然紅了起來，不過身為全台最老牌、最大型的爬蟲教學頻道，我們今天不八卦，也不討論新聞，來點實用的爬蟲教學吧！<br>
 我們今天要聊的是：現在的網路防爬機制到底還有沒有用？🤔<br>
 大家最常看到的那個「我不是機器人」驗證程序，就是會跳出 9 格圖片讓你去選紅綠燈啊、斑馬線啊、機車啊...<br>
 說真的，自從有了 AI，這些驗證就跟紙糊的一樣！😂<br>
@@ -128,7 +167,7 @@ BTW，徵AI 爬蟲實習生中，請見留言。👇<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
       </itunes:summary>
       <description>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-43751913a9.jpg"><br>最近「爬蟲」這個話題又突然紅了起來，不過身為全台最老牌、最大型的爬蟲教學頻道，我們今天不八卦，也不討論新聞，來點實用的爬蟲教學吧！<br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-338dffa468.jpg"><br>最近「爬蟲」這個話題又突然紅了起來，不過身為全台最老牌、最大型的爬蟲教學頻道，我們今天不八卦，也不討論新聞，來點實用的爬蟲教學吧！<br>
 我們今天要聊的是：現在的網路防爬機制到底還有沒有用？🤔<br>
 大家最常看到的那個「我不是機器人」驗證程序，就是會跳出 9 格圖片讓你去選紅綠燈啊、斑馬線啊、機車啊...<br>
 說真的，自從有了 AI，這些驗證就跟紙糊的一樣！😂<br>
@@ -142,7 +181,7 @@ BTW，徵AI 爬蟲實習生中，請見留言。👇<br>
 BTW，徵AI 爬蟲實習生中，請見留言。👇<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
       </description>
-      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-43751913a9.jpg"><br>最近「爬蟲」這個話題又突然紅了起來，不過身為全台最老牌、最大型的爬蟲教學頻道，我們今天不八卦，也不討論新聞，來點實用的爬蟲教學吧！<br>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-338dffa468.jpg"><br>最近「爬蟲」這個話題又突然紅了起來，不過身為全台最老牌、最大型的爬蟲教學頻道，我們今天不八卦，也不討論新聞，來點實用的爬蟲教學吧！<br>
 我們今天要聊的是：現在的網路防爬機制到底還有沒有用？🤔<br>
 大家最常看到的那個「我不是機器人」驗證程序，就是會跳出 9 格圖片讓你去選紅綠燈啊、斑馬線啊、機車啊...<br>
 說真的，自從有了 AI，這些驗證就跟紙糊的一樣！😂<br>
@@ -155,8 +194,8 @@ BTW，徵AI 爬蟲實習生中，請見留言。👇<br>
 本影片內容僅供教育和技術研究用途，各位觀眾使用相關技術時請自行承擔法律責任喔！我們只是單純分享技術知識，不鼓勵任何不當使用 😊<br>
 BTW，徵AI 爬蟲實習生中，請見留言。👇<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
-      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-43751913a9.jpg"/>
-      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-43751913a9.jpg" medium="image"/>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-338dffa468.jpg"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-338dffa468.jpg" medium="image"/>
       <pubDate>Sun, 29 Jun 2025 14:01:32 +0000</pubDate>
     </item><item>
       <title><![CDATA[Anthropic AI當老闆實測：經營小店慘虧還鬧烏龍]]></title>
@@ -164,7 +203,7 @@ BTW，徵AI 爬蟲實習生中，請見留言。👇<br>
       <itunes:title><![CDATA[Anthropic AI當老闆實測：經營小店慘虧還鬧烏龍]]></itunes:title>
       <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
       <itunes:summary>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-fc71418d79.webp"><br>AI 能當老闆嗎？🤔<br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-f8208e2b67.webp"><br>AI 能當老闆嗎？🤔<br>
 Anthropic 進行了一項名為「Project Vend」的實驗，讓 Claude 獨立經營一家小店。在實驗中，Claude Sonnet 3.7 需要像真正的老闆一樣處理公司大小事：決定進貨、設定價格、管理庫存，最重要的是避免破產！💼<br>
 雖然它不能實際執行任務，但擁有強大的數位工具箱：網路搜尋、電子郵件通訊，以及透過 Slack 與顧客和員工即時互動的能力 🤖<br>
 在經營的第一個月，Claude 展現了令人印象深刻的能力。當員工要求荷蘭巧克力牛奶品牌 Chocomel 時，Claude 快速找到了兩家供應商；它也能根據客戶需求調整策略，甚至推出「客製化禮賓服務」，滿足員工對特殊商品的需求 ✨<br>
@@ -175,7 +214,7 @@ Anthropic 進行了一項名為「Project Vend」的實驗，讓 Claude 獨立�
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
       </itunes:summary>
       <description>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-fc71418d79.webp"><br>AI 能當老闆嗎？🤔<br>
+        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-f8208e2b67.webp"><br>AI 能當老闆嗎？🤔<br>
 Anthropic 進行了一項名為「Project Vend」的實驗，讓 Claude 獨立經營一家小店。在實驗中，Claude Sonnet 3.7 需要像真正的老闆一樣處理公司大小事：決定進貨、設定價格、管理庫存，最重要的是避免破產！💼<br>
 雖然它不能實際執行任務，但擁有強大的數位工具箱：網路搜尋、電子郵件通訊，以及透過 Slack 與顧客和員工即時互動的能力 🤖<br>
 在經營的第一個月，Claude 展現了令人印象深刻的能力。當員工要求荷蘭巧克力牛奶品牌 Chocomel 時，Claude 快速找到了兩家供應商；它也能根據客戶需求調整策略，甚至推出「客製化禮賓服務」，滿足員工對特殊商品的需求 ✨<br>
@@ -185,7 +224,7 @@ Anthropic 進行了一項名為「Project Vend」的實驗，讓 Claude 獨立�
 啥？！AI 連也要來取代老闆嗎？😮<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
       </description>
-      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-fc71418d79.webp"><br>AI 能當老闆嗎？🤔<br>
+      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-f8208e2b67.webp"><br>AI 能當老闆嗎？🤔<br>
 Anthropic 進行了一項名為「Project Vend」的實驗，讓 Claude 獨立經營一家小店。在實驗中，Claude Sonnet 3.7 需要像真正的老闆一樣處理公司大小事：決定進貨、設定價格、管理庫存，最重要的是避免破產！💼<br>
 雖然它不能實際執行任務，但擁有強大的數位工具箱：網路搜尋、電子郵件通訊，以及透過 Slack 與顧客和員工即時互動的能力 🤖<br>
 在經營的第一個月，Claude 展現了令人印象深刻的能力。當員工要求荷蘭巧克力牛奶品牌 Chocomel 時，Claude 快速找到了兩家供應商；它也能根據客戶需求調整策略，甚至推出「客製化禮賓服務」，滿足員工對特殊商品的需求 ✨<br>
@@ -194,47 +233,8 @@ Anthropic 進行了一項名為「Project Vend」的實驗，讓 Claude 獨立�
 儘管財務慘敗，研究團隊依然樂觀。他們認為 Claude 的多數錯誤都能透過更精準的指令設計、更強大的商業工具，以及強化學習訓練解決。🚀<br>
 啥？！AI 連也要來取代老闆嗎？😮<br>
 <br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
-      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-fc71418d79.webp"/>
-      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-fc71418d79.webp" medium="image"/>
+      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-f8208e2b67.webp"/>
+      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-f8208e2b67.webp" medium="image"/>
       <pubDate>Sat, 28 Jun 2025 13:28:54 +0000</pubDate>
-    </item><item>
-      <title><![CDATA[FLUX.1 Kontext [dev] 開放權重！媲美 GPT-4o 語音編輯圖像，效能超越 Gemini！]]></title>
-      <link>https://www.facebook.com/1196130575859670/posts/1223402483132479</link>
-      <itunes:title><![CDATA[FLUX.1 Kontext [dev] 開放權重！媲美 GPT-4o 語音編輯圖像，效能超越 Gemini！]]></itunes:title>
-      <itunes:author><![CDATA[LargitData - 大數軟體 on Facebook[FB+]]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-67235bcc2e.jpg"><br>跟 GPT-4o 一樣用說的就可以編輯圖像的模型 FLUX.1 Kontext [dev] 竟然開放權重了？！😮<br>
-Black Forest Labs 開放的 FLUX.1 Kontext [dev] 是一個只有12B的模型，在圖像編輯能力方面表現卓越，具備以下特性：<br>
-🔄 迭代編輯能力：可以不斷修改調整，一步步把圖片改到滿意為止。<br>
-👤 角色一致性：不管換什麼背景或場景，角色的長相和特徵都能保持一致。<br>
-🎯 精準編輯控制：不論是修改小細節還是大範圍調整，都能精確控制編輯範圍。<br>
-在Black Forest Labs 發布的圖像編輯基準 KontextBench 上，該模型在人類偏好評估中表現優異，不僅超越了現有模型，更在多個項目中勝過Gemini-Flash Image等閉源模型。這些結果也得到了 Artificial Analysis 的確認。🏆 <br>
-我說那個Adobe呀，你的護城河再不拿出來，客戶就要跑走啦！🤣 <br>
-BTW，徵AI 爬蟲實習生中，請見留言。👇<br>
-<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-67235bcc2e.jpg"><br>跟 GPT-4o 一樣用說的就可以編輯圖像的模型 FLUX.1 Kontext [dev] 竟然開放權重了？！😮<br>
-Black Forest Labs 開放的 FLUX.1 Kontext [dev] 是一個只有12B的模型，在圖像編輯能力方面表現卓越，具備以下特性：<br>
-🔄 迭代編輯能力：可以不斷修改調整，一步步把圖片改到滿意為止。<br>
-👤 角色一致性：不管換什麼背景或場景，角色的長相和特徵都能保持一致。<br>
-🎯 精準編輯控制：不論是修改小細節還是大範圍調整，都能精確控制編輯範圍。<br>
-在Black Forest Labs 發布的圖像編輯基準 KontextBench 上，該模型在人類偏好評估中表現優異，不僅超越了現有模型，更在多個項目中勝過Gemini-Flash Image等閉源模型。這些結果也得到了 Artificial Analysis 的確認。🏆 <br>
-我說那個Adobe呀，你的護城河再不拿出來，客戶就要跑走啦！🤣 <br>
-BTW，徵AI 爬蟲實習生中，請見留言。👇<br>
-<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]>
-      </description>
-      <content:encoded><![CDATA[<img src="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-67235bcc2e.jpg"><br>跟 GPT-4o 一樣用說的就可以編輯圖像的模型 FLUX.1 Kontext [dev] 竟然開放權重了？！😮<br>
-Black Forest Labs 開放的 FLUX.1 Kontext [dev] 是一個只有12B的模型，在圖像編輯能力方面表現卓越，具備以下特性：<br>
-🔄 迭代編輯能力：可以不斷修改調整，一步步把圖片改到滿意為止。<br>
-👤 角色一致性：不管換什麼背景或場景，角色的長相和特徵都能保持一致。<br>
-🎯 精準編輯控制：不論是修改小細節還是大範圍調整，都能精確控制編輯範圍。<br>
-在Black Forest Labs 發布的圖像編輯基準 KontextBench 上，該模型在人類偏好評估中表現優異，不僅超越了現有模型，更在多個項目中勝過Gemini-Flash Image等閉源模型。這些結果也得到了 Artificial Analysis 的確認。🏆 <br>
-我說那個Adobe呀，你的護城河再不拿出來，客戶就要跑走啦！🤣 <br>
-BTW，徵AI 爬蟲實習生中，請見留言。👇<br>
-<br><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com/feedLink?w=6831f36a626fe5d220015652" target="_blank">FetchRSS</a>)</span>]]></content:encoded>
-      <itunes:image href="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-67235bcc2e.jpg"/>
-      <media:content url="https://democwise2016.github.io/action-RSS-FB-Feed/file-cache/scontent-dus1-1.xx.fbcdn.net-67235bcc2e.jpg" medium="image"/>
-      <pubDate>Fri, 27 Jun 2025 13:41:48 +0000</pubDate>
     </item></channel>
 </rss>
